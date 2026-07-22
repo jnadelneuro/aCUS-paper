@@ -1,0 +1,2 @@
+stress: 32
+naive: 32

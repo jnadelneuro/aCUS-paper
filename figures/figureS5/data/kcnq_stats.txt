@@ -1,0 +1,76 @@
+
+======================================================================
+KCNQ EXPRESSION BY PROJECTION GROUP
+======================================================================
+
+  Group                      n           Kcnq2           Kcnq3           Kcnq5
+  ---------------------------------------------------------------------------
+  SN (Drd1+/Sema3c-)       118    17.9( 86%)     6.2( 53%)     5.3( 40%)
+  BNST (Dlk1+)             476    13.4( 80%)     3.5( 38%)     2.9( 32%)
+  PAG (Crh+)               124    11.6( 80%)     3.6( 40%)     3.2( 31%)
+
+  Group                     Q2:Q3    Q2:Q5    Q3:Q5
+  --------------------------------------------------
+  SN (Drd1+/Sema3c-)         2.9x     3.4x     1.2x
+  BNST (Dlk1+)               3.8x     4.7x     1.2x
+  PAG (Crh+)                 3.2x     3.6x     1.1x
+
+======================================================================
+PER-GENE STATISTICS (Kruskal-Wallis + Dunn post-hoc)
+======================================================================
+  (counts are non-Gaussian -> rank-based omnibus + Dunn, BH-adjusted)
+
+  Kcnq2
+  ──────────────────────────────────────────────────
+    SN (Drd1+/Sema3c-)     n=118   median= 12.5  IQR=[5, 25]
+    BNST (Dlk1+)           n=476   median=  9.0  IQR=[1, 19]
+    PAG (Crh+)             n=124   median=  8.5  IQR=[1, 17]
+
+    Kruskal-Wallis: H=8.88, p=0.0118 *
+    Post-hoc Dunn (Benjamini-Hochberg adjusted):
+      SN (Drd1+/Sema3c-) vs BNST (Dlk1+)  p_adj=0.0107 *
+      SN (Drd1+/Sema3c-) vs PAG (Crh+)  p_adj=0.0107 *
+      BNST (Dlk1+) vs PAG (Crh+)  p_adj=0.4809 ns
+
+  Kcnq3
+  ──────────────────────────────────────────────────
+    SN (Drd1+/Sema3c-)     n=118   median=  1.0  IQR=[0, 11]
+    BNST (Dlk1+)           n=476   median=  0.0  IQR=[0, 2]
+    PAG (Crh+)             n=124   median=  0.0  IQR=[0, 6]
+
+    Kruskal-Wallis: H=12.03, p=0.0024 **
+    Post-hoc Dunn (Benjamini-Hochberg adjusted):
+      SN (Drd1+/Sema3c-) vs BNST (Dlk1+)  p_adj=0.0016 **
+      SN (Drd1+/Sema3c-) vs PAG (Crh+)  p_adj=0.0240 *
+      BNST (Dlk1+) vs PAG (Crh+)  p_adj=0.6480 ns
+
+  Kcnq5
+  ──────────────────────────────────────────────────
+    SN (Drd1+/Sema3c-)     n=118   median=  0.0  IQR=[0, 6]
+    BNST (Dlk1+)           n=476   median=  0.0  IQR=[0, 1]
+    PAG (Crh+)             n=124   median=  0.0  IQR=[0, 1]
+
+    Kruskal-Wallis: H=4.03, p=0.1336 ns
+    Omnibus n.s. (p>=0.05) -> Dunn post-hoc not performed.
+
+======================================================================
+HETERODIMER CO-EXPRESSION BY PROJECTION GROUP
+======================================================================
+
+  Group                     n   Q2+Q3+  Q2+Q5+  Q3+Q5+  Q2only   allQ-
+  --------------------------------------------------------------------
+  SN (Drd1+/Sema3c-)      118   50.0%   34.7%   22.9%   22.9%    7.6%
+  BNST (Dlk1+)            476   32.6%   26.9%   13.0%   32.1%   10.3%
+  PAG (Crh+)              124   30.6%   25.8%   14.5%   36.3%    7.3%
+
+  Kcnq3/(Kcnq3+Kcnq5) ratio (cells with Q3>0 or Q5>0 only)
+  Higher = Q2/3 dominant, Lower = Q2/5 dominant
+
+  Group                     n   median            IQR
+  ----------------------------------------------------
+  SN (Drd1+/Sema3c-)       82   0.602  [0.073, 1.000]
+  BNST (Dlk1+)            274   0.655  [0.000, 1.000]
+  PAG (Crh+)               70   0.804  [0.000, 1.000]
+
+  Kruskal-Wallis on Q3/(Q3+Q5): H=0.37, p=0.8328 ns
+  Omnibus n.s. (p>=0.05) -> Dunn post-hoc not performed.

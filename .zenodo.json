@@ -1,0 +1,26 @@
+{
+  "upload_type": "software",
+  "title": "Analysis code for: Adolescent Stress Sensitizes Amygdalo-Nigro-Striatal Circuitry to Drive Punishment-Resistant Reward-Seeking",
+  "description": "Analysis code and processed data that reproduce the figures of Nadel et al. See the repository README for structure, environments, and per-figure reproduction recipes.",
+  "license": "MIT",
+  "creators": [
+    { "name": "Nadel, Jacob A." },
+    { "name": "Swanson, Evan S." },
+    { "name": "Zhu, Manhua" },
+    { "name": "Demir, Baran" },
+    { "name": "Kwon, Michelle H." },
+    { "name": "Patel, Sachin" },
+    { "name": "Lerner, Talia N." }
+  ],
+  "keywords": [
+    "adolescent stress",
+    "central amygdala",
+    "tail of the striatum",
+    "dopamine",
+    "punishment-resistant reward-seeking",
+    "electrophysiology",
+    "fiber photometry",
+    "biophysical modeling",
+    "reproducibility"
+  ]
+}

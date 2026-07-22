@@ -1,0 +1,1794 @@
+,cell name,current,proj,stress,mouse,drug type,drug state,firing rate,sweep
+0,m001 s3c1,0,BNST,stress,674-R,,baseline,0.0,146.0
+1,m001 s3c1,20,BNST,stress,674-R,,baseline,12.0,147.0
+2,m001 s3c1,40,BNST,stress,674-R,,baseline,21.333333333333332,148.0
+3,m001 s3c1,60,BNST,stress,674-R,,baseline,26.0,149.0
+4,m001 s3c1,80,BNST,stress,674-R,,baseline,29.333333333333332,150.0
+5,m001 s3c1,100,BNST,stress,674-R,,baseline,31.333333333333332,151.0
+6,m001 s3c1,120,BNST,stress,674-R,,baseline,26.0,152.0
+7,m001 s3c1,140,BNST,stress,674-R,,baseline,18.666666666666668,153.0
+8,m001 s3c1,160,BNST,stress,674-R,,baseline,12.666666666666666,154.0
+9,m001 s3c1,180,BNST,stress,674-R,,baseline,9.333333333333334,155.0
+10,m001 s3c1,200,BNST,stress,674-R,,baseline,8.0,156.0
+11,m001 s3c3,0,BNST,stress,674-R,,baseline,0.0,383.0
+12,m001 s3c3,20,BNST,stress,674-R,,baseline,0.0,384.0
+13,m001 s3c3,40,BNST,stress,674-R,,baseline,6.0,385.0
+14,m001 s3c3,60,BNST,stress,674-R,,baseline,12.0,386.0
+15,m001 s3c3,80,BNST,stress,674-R,,baseline,18.0,387.0
+16,m001 s3c3,100,BNST,stress,674-R,,baseline,22.666666666666668,388.0
+17,m001 s3c3,120,BNST,stress,674-R,,baseline,28.666666666666668,389.0
+18,m001 s3c3,140,BNST,stress,674-R,,baseline,32.0,390.0
+19,m001 s3c3,160,BNST,stress,674-R,,baseline,34.0,391.0
+20,m001 s3c3,180,BNST,stress,674-R,,baseline,35.333333333333336,392.0
+21,m001 s3c3,200,BNST,stress,674-R,,baseline,36.666666666666664,393.0
+22,m001 s4c1,0,BNST,stress,674-R,,baseline,0.0,501.0
+23,m001 s4c1,20,BNST,stress,674-R,,baseline,0.0,502.0
+24,m001 s4c1,40,BNST,stress,674-R,,baseline,4.0,503.0
+25,m001 s4c1,60,BNST,stress,674-R,,baseline,7.333333333333333,504.0
+26,m001 s4c1,80,BNST,stress,674-R,,baseline,6.0,505.0
+27,m001 s4c1,100,BNST,stress,674-R,,baseline,5.333333333333333,506.0
+28,m001 s4c1,120,BNST,stress,674-R,,baseline,5.333333333333333,507.0
+29,m001 s4c1,140,BNST,stress,674-R,,baseline,4.0,508.0
+30,m001 s4c1,160,BNST,stress,674-R,,baseline,4.0,509.0
+31,m001 s4c1,180,BNST,stress,674-R,,baseline,3.3333333333333335,510.0
+32,m001 s4c1,200,BNST,stress,674-R,,baseline,3.3333333333333335,511.0
+33,m001 s5c1,0,BNST,stress,674-R,,baseline,2.6666666666666665,619.0
+34,m001 s5c1,20,BNST,stress,674-R,,baseline,10.0,620.0
+35,m001 s5c1,40,BNST,stress,674-R,,baseline,12.0,621.0
+36,m001 s5c1,60,BNST,stress,674-R,,baseline,12.666666666666666,622.0
+37,m001 s5c1,80,BNST,stress,674-R,,baseline,12.666666666666666,623.0
+38,m001 s5c1,100,BNST,stress,674-R,,baseline,10.0,624.0
+39,m001 s5c1,120,BNST,stress,674-R,,baseline,7.333333333333333,625.0
+40,m001 s5c1,140,BNST,stress,674-R,,baseline,6.666666666666667,626.0
+41,m001 s5c1,160,BNST,stress,674-R,,baseline,6.0,627.0
+42,m001 s5c1,180,BNST,stress,674-R,,baseline,6.0,628.0
+43,m001 s5c1,200,BNST,stress,674-R,,baseline,6.0,629.0
+44,m006 s2c2 +,0,SNL,stress,611-006,,baseline,0.0,1138.0
+45,m006 s2c2 +,20,SNL,stress,611-006,,baseline,0.0,1139.0
+46,m006 s2c2 +,40,SNL,stress,611-006,,baseline,12.666666666666666,1140.0
+47,m006 s2c2 +,60,SNL,stress,611-006,,baseline,18.666666666666668,1141.0
+48,m006 s2c2 +,80,SNL,stress,611-006,,baseline,24.0,1142.0
+49,m006 s2c2 +,100,SNL,stress,611-006,,baseline,25.333333333333332,1143.0
+50,m006 s2c2 +,120,SNL,stress,611-006,,baseline,26.0,1144.0
+51,m006 s2c2 +,140,SNL,stress,611-006,,baseline,16.0,1145.0
+52,m006 s2c2 +,160,SNL,stress,611-006,,baseline,9.333333333333334,1146.0
+53,m006 s2c2 +,180,SNL,stress,611-006,,baseline,7.333333333333333,1147.0
+54,m006 s2c2 +,200,SNL,stress,611-006,,baseline,7.333333333333333,1148.0
+55,m006 s2c6 +,0,SNL,stress,611-006,,baseline,0.0,1545.0
+56,m006 s2c6 +,20,SNL,stress,611-006,,baseline,1.3333333333333333,1546.0
+57,m006 s2c6 +,40,SNL,stress,611-006,,baseline,6.666666666666667,1547.0
+58,m006 s2c6 +,60,SNL,stress,611-006,,baseline,11.333333333333334,1548.0
+59,m006 s2c6 +,80,SNL,stress,611-006,,baseline,16.0,1549.0
+60,m006 s2c6 +,100,SNL,stress,611-006,,baseline,21.333333333333332,1550.0
+61,m006 s2c6 +,120,SNL,stress,611-006,,baseline,18.666666666666668,1551.0
+62,m006 s2c6 +,140,SNL,stress,611-006,,baseline,16.0,1552.0
+63,m006 s2c6 +,160,SNL,stress,611-006,,baseline,8.666666666666666,1553.0
+64,m006 s2c6 +,180,SNL,stress,611-006,,baseline,8.0,1554.0
+65,m006 s2c6 +,200,SNL,stress,611-006,,baseline,8.0,1555.0
+66,m006 s2c7 +,0,SNL,stress,611-006,,baseline,0.0,1582.0
+67,m006 s2c7 +,20,SNL,stress,611-006,,baseline,4.666666666666667,1583.0
+68,m006 s2c7 +,40,SNL,stress,611-006,,baseline,10.0,1584.0
+69,m006 s2c7 +,60,SNL,stress,611-006,,baseline,15.333333333333334,1585.0
+70,m006 s2c7 +,80,SNL,stress,611-006,,baseline,18.666666666666668,1586.0
+71,m006 s2c7 +,100,SNL,stress,611-006,,baseline,20.0,1587.0
+72,m006 s2c7 +,120,SNL,stress,611-006,,baseline,12.666666666666666,1588.0
+73,m006 s2c7 +,140,SNL,stress,611-006,,baseline,9.333333333333334,1589.0
+74,m006 s2c7 +,160,SNL,stress,611-006,,baseline,10.0,1590.0
+75,m006 s2c7 +,180,SNL,stress,611-006,,baseline,7.333333333333333,1591.0
+76,m006 s2c7 +,200,SNL,stress,611-006,,baseline,8.0,1592.0
+77,m006 s4c1 + (mz_s2c1),0,SNL,stress,611-006,,baseline,0.0,138.0
+78,m006 s4c1 + (mz_s2c1),20,SNL,stress,611-006,,baseline,0.0,139.0
+79,m006 s4c1 + (mz_s2c1),40,SNL,stress,611-006,,baseline,2.0,140.0
+80,m006 s4c1 + (mz_s2c1),60,SNL,stress,611-006,,baseline,12.0,141.0
+81,m006 s4c1 + (mz_s2c1),80,SNL,stress,611-006,,baseline,21.333333333333332,142.0
+82,m006 s4c1 + (mz_s2c1),100,SNL,stress,611-006,,baseline,27.333333333333332,143.0
+83,m006 s4c1 + (mz_s2c1),120,SNL,stress,611-006,,baseline,33.333333333333336,144.0
+84,m006 s4c1 + (mz_s2c1),140,SNL,stress,611-006,,baseline,36.666666666666664,145.0
+85,m006 s4c1 + (mz_s2c1),160,SNL,stress,611-006,,baseline,40.0,146.0
+86,m006 s4c1 + (mz_s2c1),180,SNL,stress,611-006,,baseline,42.666666666666664,147.0
+87,m006 s4c1 + (mz_s2c1),200,SNL,stress,611-006,,baseline,42.0,148.0
+88,m009 s1c1 +,0,SNL,stress,607-009,,baseline,0.0,1016.0
+89,m009 s1c1 +,20,SNL,stress,607-009,,baseline,0.0,1017.0
+90,m009 s1c1 +,40,SNL,stress,607-009,,baseline,0.0,1018.0
+91,m009 s1c1 +,60,SNL,stress,607-009,,baseline,0.6666666666666666,1019.0
+92,m009 s1c1 +,80,SNL,stress,607-009,,baseline,2.0,1020.0
+93,m009 s1c1 +,100,SNL,stress,607-009,,baseline,2.6666666666666665,1021.0
+94,m009 s1c1 +,120,SNL,stress,607-009,,baseline,3.3333333333333335,1022.0
+95,m009 s1c1 +,140,SNL,stress,607-009,,baseline,4.0,1023.0
+96,m009 s1c1 +,160,SNL,stress,607-009,,baseline,6.0,1024.0
+97,m009 s1c1 +,180,SNL,stress,607-009,,baseline,6.666666666666667,1025.0
+98,m009 s1c1 +,200,SNL,stress,607-009,,baseline,8.0,1026.0
+99,m011 s2c1 +,0,SNL,naive,608-011,,baseline,0.0,297.0
+100,m011 s2c1 +,20,SNL,naive,608-011,,baseline,3.6666666666666665,298.0
+101,m011 s2c1 +,40,SNL,naive,608-011,,baseline,14.333333333333334,299.0
+102,m011 s2c1 +,60,SNL,naive,608-011,,baseline,19.333333333333332,300.0
+103,m011 s2c1 +,80,SNL,naive,608-011,,baseline,17.666666666666668,301.0
+104,m011 s2c1 +,100,SNL,naive,608-011,,baseline,24.0,302.0
+105,m011 s2c1 +,120,SNL,naive,608-011,,baseline,29.0,303.0
+106,m011 s2c1 +,140,SNL,naive,608-011,,baseline,34.333333333333336,304.0
+107,m011 s2c1 +,160,SNL,naive,608-011,,baseline,30.666666666666668,305.0
+108,m011 s2c1 +,180,SNL,naive,608-011,,baseline,33.666666666666664,306.0
+109,m011 s2c1 +,200,SNL,naive,608-011,,baseline,33.0,307.0
+110,m011 s3c1 +,0,SNL,naive,608-011,,baseline,0.0,476.0
+111,m011 s3c1 +,20,SNL,naive,608-011,,baseline,0.0,477.0
+112,m011 s3c1 +,40,SNL,naive,608-011,,baseline,1.3333333333333333,478.0
+113,m011 s3c1 +,60,SNL,naive,608-011,,baseline,9.333333333333334,479.0
+114,m011 s3c1 +,80,SNL,naive,608-011,,baseline,15.333333333333334,480.0
+115,m011 s3c1 +,100,SNL,naive,608-011,,baseline,20.0,481.0
+116,m011 s3c1 +,120,SNL,naive,608-011,,baseline,24.0,482.0
+117,m011 s3c1 +,140,SNL,naive,608-011,,baseline,26.0,483.0
+118,m011 s3c1 +,160,SNL,naive,608-011,,baseline,27.333333333333332,484.0
+119,m011 s3c1 +,180,SNL,naive,608-011,,baseline,28.666666666666668,485.0
+120,m011 s3c1 +,200,SNL,naive,608-011,,baseline,27.333333333333332,486.0
+121,m021 s1c1 +,0,SNL,naive,608-021,,baseline,0.0,16.0
+122,m021 s1c1 +,20,SNL,naive,608-021,,baseline,0.0,17.0
+123,m021 s1c1 +,40,SNL,naive,608-021,,baseline,0.0,18.0
+124,m021 s1c1 +,60,SNL,naive,608-021,,baseline,2.0,19.0
+125,m021 s1c1 +,80,SNL,naive,608-021,,baseline,7.333333333333333,20.0
+126,m021 s1c1 +,100,SNL,naive,608-021,,baseline,10.0,21.0
+127,m021 s1c1 +,120,SNL,naive,608-021,,baseline,10.666666666666666,22.0
+128,m021 s1c1 +,140,SNL,naive,608-021,,baseline,12.0,23.0
+129,m021 s1c1 +,160,SNL,naive,608-021,,baseline,9.333333333333334,24.0
+130,m021 s1c1 +,180,SNL,naive,608-021,,baseline,7.333333333333333,25.0
+131,m021 s1c1 +,200,SNL,naive,608-021,,baseline,8.666666666666666,26.0
+132,m021 s1c2 +,0,SNL,naive,608-021,,baseline,0.0,200.5
+133,m021 s1c2 +,20,SNL,naive,608-021,,baseline,0.0,201.5
+134,m021 s1c2 +,40,SNL,naive,608-021,,baseline,0.3333333333333333,202.5
+135,m021 s1c2 +,60,SNL,naive,608-021,,baseline,5.0,203.5
+136,m021 s1c2 +,80,SNL,naive,608-021,,baseline,10.666666666666666,204.5
+137,m021 s1c2 +,100,SNL,naive,608-021,,baseline,14.666666666666666,205.5
+138,m021 s1c2 +,120,SNL,naive,608-021,,baseline,18.0,206.5
+139,m021 s1c2 +,140,SNL,naive,608-021,,baseline,22.0,207.5
+140,m021 s1c2 +,160,SNL,naive,608-021,,baseline,24.666666666666668,208.5
+141,m021 s1c2 +,180,SNL,naive,608-021,,baseline,27.0,209.5
+142,m021 s1c2 +,200,SNL,naive,608-021,,baseline,29.0,210.5
+143,m021 s1c3 +,0,SNL,naive,608-021,,baseline,0.0,418.0
+144,m021 s1c3 +,20,SNL,naive,608-021,,baseline,0.0,419.0
+145,m021 s1c3 +,40,SNL,naive,608-021,,baseline,0.0,420.0
+146,m021 s1c3 +,60,SNL,naive,608-021,,baseline,2.0,421.0
+147,m021 s1c3 +,80,SNL,naive,608-021,,baseline,3.3333333333333335,422.0
+148,m021 s1c3 +,100,SNL,naive,608-021,,baseline,4.666666666666667,423.0
+149,m021 s1c3 +,120,SNL,naive,608-021,,baseline,6.0,424.0
+150,m021 s1c3 +,140,SNL,naive,608-021,,baseline,9.333333333333334,425.0
+151,m021 s1c3 +,160,SNL,naive,608-021,,baseline,10.666666666666666,426.0
+152,m021 s1c3 +,180,SNL,naive,608-021,,baseline,11.333333333333334,427.0
+153,m021 s1c3 +,200,SNL,naive,608-021,,baseline,16.0,428.0
+154,m021 s2c2 +,0,SNL,naive,608-021,,baseline,0.0,547.0
+155,m021 s2c2 +,20,SNL,naive,608-021,,baseline,3.3333333333333335,548.0
+156,m021 s2c2 +,40,SNL,naive,608-021,,baseline,12.666666666666666,549.0
+157,m021 s2c2 +,60,SNL,naive,608-021,,baseline,19.333333333333332,550.0
+158,m021 s2c2 +,80,SNL,naive,608-021,,baseline,19.333333333333332,551.0
+159,m021 s2c2 +,100,SNL,naive,608-021,,baseline,14.666666666666666,552.0
+160,m021 s2c2 +,120,SNL,naive,608-021,,baseline,11.333333333333334,553.0
+161,m021 s2c2 +,140,SNL,naive,608-021,,baseline,10.0,554.0
+162,m021 s2c2 +,160,SNL,naive,608-021,,baseline,8.666666666666666,555.0
+163,m021 s2c2 +,180,SNL,naive,608-021,,baseline,8.666666666666666,556.0
+164,m021 s2c2 +,200,SNL,naive,608-021,,baseline,8.666666666666666,557.0
+165,m021 s2c3 +,0,SNL,naive,608-021,,baseline,0.0,715.5
+166,m021 s2c3 +,20,SNL,naive,608-021,,baseline,0.0,716.5
+167,m021 s2c3 +,40,SNL,naive,608-021,,baseline,3.0,717.5
+168,m021 s2c3 +,60,SNL,naive,608-021,,baseline,8.333333333333334,718.5
+169,m021 s2c3 +,80,SNL,naive,608-021,,baseline,16.333333333333332,719.5
+170,m021 s2c3 +,100,SNL,naive,608-021,,baseline,21.0,720.5
+171,m021 s2c3 +,120,SNL,naive,608-021,,baseline,25.333333333333332,721.5
+172,m021 s2c3 +,140,SNL,naive,608-021,,baseline,23.0,722.5
+173,m021 s2c3 +,160,SNL,naive,608-021,,baseline,22.333333333333332,723.5
+174,m021 s2c3 +,180,SNL,naive,608-021,,baseline,20.666666666666668,724.5
+175,m021 s2c3 +,200,SNL,naive,608-021,,baseline,17.666666666666668,725.5
+176,m021 s2c4 +,0,SNL,naive,608-021,,baseline,0.0,904.0
+177,m021 s2c4 +,20,SNL,naive,608-021,,baseline,0.0,905.0
+178,m021 s2c4 +,40,SNL,naive,608-021,,baseline,0.0,906.0
+179,m021 s2c4 +,60,SNL,naive,608-021,,baseline,0.0,907.0
+180,m021 s2c4 +,80,SNL,naive,608-021,,baseline,2.0,908.0
+181,m021 s2c4 +,100,SNL,naive,608-021,,baseline,2.0,909.0
+182,m021 s2c4 +,120,SNL,naive,608-021,,baseline,2.0,910.0
+183,m021 s2c4 +,140,SNL,naive,608-021,,baseline,4.0,911.0
+184,m021 s2c4 +,160,SNL,naive,608-021,,baseline,4.0,912.0
+185,m021 s2c4 +,180,SNL,naive,608-021,,baseline,4.0,913.0
+186,m021 s2c4 +,200,SNL,naive,608-021,,baseline,4.0,914.0
+187,m021 s2c6 +,0,SNL,naive,608-021,,baseline,0.0,1184.5
+188,m021 s2c6 +,20,SNL,naive,608-021,,baseline,0.0,1185.5
+189,m021 s2c6 +,40,SNL,naive,608-021,,baseline,0.0,1186.5
+190,m021 s2c6 +,60,SNL,naive,608-021,,baseline,2.0,1187.5
+191,m021 s2c6 +,80,SNL,naive,608-021,,baseline,3.3333333333333335,1188.5
+192,m021 s2c6 +,100,SNL,naive,608-021,,baseline,3.6666666666666665,1189.5
+193,m021 s2c6 +,120,SNL,naive,608-021,,baseline,4.333333333333333,1190.5
+194,m021 s2c6 +,140,SNL,naive,608-021,,baseline,5.333333333333333,1191.5
+195,m021 s2c6 +,160,SNL,naive,608-021,,baseline,5.0,1192.5
+196,m021 s2c6 +,180,SNL,naive,608-021,,baseline,5.333333333333333,1193.5
+197,m021 s2c6 +,200,SNL,naive,608-021,,baseline,5.0,1194.5
+198,m021 s2c7 +,0,SNL,naive,608-021,,baseline,0.0,1401.0
+199,m021 s2c7 +,20,SNL,naive,608-021,,baseline,0.0,1402.0
+200,m021 s2c7 +,40,SNL,naive,608-021,,baseline,0.0,1403.0
+201,m021 s2c7 +,60,SNL,naive,608-021,,baseline,2.0,1404.0
+202,m021 s2c7 +,80,SNL,naive,608-021,,baseline,7.666666666666667,1405.0
+203,m021 s2c7 +,100,SNL,naive,608-021,,baseline,11.0,1406.0
+204,m021 s2c7 +,120,SNL,naive,608-021,,baseline,14.333333333333334,1407.0
+205,m021 s2c7 +,140,SNL,naive,608-021,,baseline,17.333333333333332,1408.0
+206,m021 s2c7 +,160,SNL,naive,608-021,,baseline,20.666666666666668,1409.0
+207,m021 s2c7 +,180,SNL,naive,608-021,,baseline,23.666666666666668,1410.0
+208,m021 s2c7 +,200,SNL,naive,608-021,,baseline,26.666666666666668,1411.0
+209,m022 s1c4 +,0,SNL,stress,607-022,,baseline,0.0,1828.0
+210,m022 s1c4 +,20,SNL,stress,607-022,,baseline,0.0,1829.0
+211,m022 s1c4 +,40,SNL,stress,607-022,,baseline,0.0,1830.0
+212,m022 s1c4 +,60,SNL,stress,607-022,,baseline,8.666666666666666,1831.0
+213,m022 s1c4 +,80,SNL,stress,607-022,,baseline,16.666666666666668,1832.0
+214,m022 s1c4 +,100,SNL,stress,607-022,,baseline,24.0,1833.0
+215,m022 s1c4 +,120,SNL,stress,607-022,,baseline,31.333333333333332,1834.0
+216,m022 s1c4 +,140,SNL,stress,607-022,,baseline,38.0,1835.0
+217,m022 s1c4 +,160,SNL,stress,607-022,,baseline,44.0,1836.0
+218,m022 s1c4 +,180,SNL,stress,607-022,,baseline,49.333333333333336,1837.0
+219,m022 s1c4 +,200,SNL,stress,607-022,,baseline,53.333333333333336,1838.0
+220,m022 s2c1 +,0,SNL,stress,607-022,,baseline,0.0,2012.0
+221,m022 s2c1 +,20,SNL,stress,607-022,,baseline,0.0,2013.0
+222,m022 s2c1 +,40,SNL,stress,607-022,,baseline,3.6666666666666665,2014.0
+223,m022 s2c1 +,60,SNL,stress,607-022,,baseline,8.333333333333334,2015.0
+224,m022 s2c1 +,80,SNL,stress,607-022,,baseline,11.333333333333334,2016.0
+225,m022 s2c1 +,100,SNL,stress,607-022,,baseline,14.666666666666666,2017.0
+226,m022 s2c1 +,120,SNL,stress,607-022,,baseline,18.0,2018.0
+227,m022 s2c1 +,140,SNL,stress,607-022,,baseline,21.333333333333332,2019.0
+228,m022 s2c1 +,160,SNL,stress,607-022,,baseline,24.0,2020.0
+229,m022 s2c1 +,180,SNL,stress,607-022,,baseline,25.0,2021.0
+230,m022 s2c1 +,200,SNL,stress,607-022,,baseline,27.333333333333332,2022.0
+231,m022 s2c2 +,0,SNL,stress,607-022,,baseline,0.0,2206.5
+232,m022 s2c2 +,20,SNL,stress,607-022,,baseline,0.0,2207.5
+233,m022 s2c2 +,40,SNL,stress,607-022,,baseline,7.333333333333333,2208.5
+234,m022 s2c2 +,60,SNL,stress,607-022,,baseline,18.0,2209.5
+235,m022 s2c2 +,80,SNL,stress,607-022,,baseline,26.0,2210.5
+236,m022 s2c2 +,100,SNL,stress,607-022,,baseline,28.0,2211.5
+237,m022 s2c2 +,120,SNL,stress,607-022,,baseline,26.666666666666668,2212.5
+238,m022 s2c2 +,140,SNL,stress,607-022,,baseline,24.0,2213.5
+239,m022 s2c2 +,160,SNL,stress,607-022,,baseline,21.666666666666668,2214.5
+240,m022 s2c2 +,180,SNL,stress,607-022,,baseline,19.333333333333332,2215.5
+241,m022 s2c2 +,200,SNL,stress,607-022,,baseline,15.666666666666666,2216.5
+242,m022 s3c2 +,0,SNL,stress,607-022,,baseline,0.0,2456.5
+243,m022 s3c2 +,20,SNL,stress,607-022,,baseline,0.0,2457.5
+244,m022 s3c2 +,40,SNL,stress,607-022,,baseline,0.0,2458.5
+245,m022 s3c2 +,60,SNL,stress,607-022,,baseline,1.3333333333333333,2459.5
+246,m022 s3c2 +,80,SNL,stress,607-022,,baseline,7.666666666666667,2460.5
+247,m022 s3c2 +,100,SNL,stress,607-022,,baseline,12.333333333333334,2461.5
+248,m022 s3c2 +,120,SNL,stress,607-022,,baseline,17.666666666666668,2462.5
+249,m022 s3c2 +,140,SNL,stress,607-022,,baseline,24.0,2463.5
+250,m022 s3c2 +,160,SNL,stress,607-022,,baseline,27.666666666666668,2464.5
+251,m022 s3c2 +,180,SNL,stress,607-022,,baseline,26.333333333333332,2465.5
+252,m022 s3c2 +,200,SNL,stress,607-022,,baseline,17.666666666666668,2466.5
+253,m101 s1c1,0,PAG,stress,671-L,,baseline,0.0,16.0
+254,m101 s1c1,20,PAG,stress,671-L,,baseline,0.0,17.0
+255,m101 s1c1,40,PAG,stress,671-L,,baseline,2.0,18.0
+256,m101 s1c1,60,PAG,stress,671-L,,baseline,4.0,19.0
+257,m101 s1c1,80,PAG,stress,671-L,,baseline,4.0,20.0
+258,m101 s1c1,100,PAG,stress,671-L,,baseline,4.0,21.0
+259,m101 s1c1,120,PAG,stress,671-L,,baseline,4.0,22.0
+260,m101 s1c1,140,PAG,stress,671-L,,baseline,2.6666666666666665,23.0
+261,m101 s1c1,160,PAG,stress,671-L,,baseline,2.6666666666666665,24.0
+262,m101 s1c1,180,PAG,stress,671-L,,baseline,2.0,25.0
+263,m101 s1c1,200,PAG,stress,671-L,,baseline,2.0,26.0
+264,m101 s1c2,0,PAG,stress,671-L,,baseline,0.0,134.0
+265,m101 s1c2,20,PAG,stress,671-L,,baseline,0.0,135.0
+266,m101 s1c2,40,PAG,stress,671-L,,baseline,0.0,136.0
+267,m101 s1c2,60,PAG,stress,671-L,,baseline,4.666666666666667,137.0
+268,m101 s1c2,80,PAG,stress,671-L,,baseline,11.333333333333334,138.0
+269,m101 s1c2,100,PAG,stress,671-L,,baseline,19.333333333333332,139.0
+270,m101 s1c2,120,PAG,stress,671-L,,baseline,28.0,140.0
+271,m101 s1c2,140,PAG,stress,671-L,,baseline,34.666666666666664,141.0
+272,m101 s1c2,160,PAG,stress,671-L,,baseline,40.666666666666664,142.0
+273,m101 s1c2,180,PAG,stress,671-L,,baseline,45.333333333333336,143.0
+274,m101 s1c2,200,PAG,stress,671-L,,baseline,48.666666666666664,144.0
+275,m101 s1c3,0,PAG,stress,671-L,,baseline,0.0,273.0
+276,m101 s1c3,20,PAG,stress,671-L,,baseline,0.0,274.0
+277,m101 s1c3,40,PAG,stress,671-L,,baseline,0.0,275.0
+278,m101 s1c3,60,PAG,stress,671-L,,baseline,0.0,276.0
+279,m101 s1c3,80,PAG,stress,671-L,,baseline,4.666666666666667,277.0
+280,m101 s1c3,100,PAG,stress,671-L,,baseline,10.666666666666666,278.0
+281,m101 s1c3,120,PAG,stress,671-L,,baseline,16.666666666666668,279.0
+282,m101 s1c3,140,PAG,stress,671-L,,baseline,22.0,280.0
+283,m101 s1c3,160,PAG,stress,671-L,,baseline,28.0,281.0
+284,m101 s1c3,180,PAG,stress,671-L,,baseline,33.333333333333336,282.0
+285,m101 s1c3,200,PAG,stress,671-L,,baseline,38.0,283.0
+286,m101 s1c4,0,PAG,stress,671-L,,baseline,0.0,448.0
+287,m101 s1c4,20,PAG,stress,671-L,,baseline,0.0,449.0
+288,m101 s1c4,40,PAG,stress,671-L,,baseline,0.0,450.0
+289,m101 s1c4,60,PAG,stress,671-L,,baseline,1.6,451.0
+290,m101 s1c4,80,PAG,stress,671-L,,baseline,6.4,452.0
+291,m101 s1c4,100,PAG,stress,671-L,,baseline,10.4,453.0
+292,m101 s1c4,120,PAG,stress,671-L,,baseline,17.2,454.0
+293,m101 s1c4,140,PAG,stress,671-L,,baseline,22.4,455.0
+294,m101 s1c4,160,PAG,stress,671-L,,baseline,29.2,456.0
+295,m101 s1c4,180,PAG,stress,671-L,,baseline,35.6,457.0
+296,m101 s1c4,200,PAG,stress,671-L,,baseline,40.0,458.0
+297,m101 s2c1,0,PAG,stress,671-L,,baseline,0.0,556.0
+298,m101 s2c1,20,PAG,stress,671-L,,baseline,0.0,557.0
+299,m101 s2c1,40,PAG,stress,671-L,,baseline,0.0,558.0
+300,m101 s2c1,60,PAG,stress,671-L,,baseline,0.0,559.0
+301,m101 s2c1,80,PAG,stress,671-L,,baseline,4.0,560.0
+302,m101 s2c1,100,PAG,stress,671-L,,baseline,10.0,561.0
+303,m101 s2c1,120,PAG,stress,671-L,,baseline,14.0,562.0
+304,m101 s2c1,140,PAG,stress,671-L,,baseline,18.0,563.0
+305,m101 s2c1,160,PAG,stress,671-L,,baseline,20.666666666666668,564.0
+306,m101 s2c1,180,PAG,stress,671-L,,baseline,24.666666666666668,565.0
+307,m101 s2c1,200,PAG,stress,671-L,,baseline,25.333333333333332,566.0
+308,m101 s2c2,0,PAG,stress,671-L,,baseline,0.0,714.0
+309,m101 s2c2,20,PAG,stress,671-L,,baseline,0.0,715.0
+310,m101 s2c2,40,PAG,stress,671-L,,baseline,5.333333333333333,716.0
+311,m101 s2c2,60,PAG,stress,671-L,,baseline,12.0,717.0
+312,m101 s2c2,80,PAG,stress,671-L,,baseline,18.666666666666668,718.0
+313,m101 s2c2,100,PAG,stress,671-L,,baseline,24.666666666666668,719.0
+314,m101 s2c2,120,PAG,stress,671-L,,baseline,27.333333333333332,720.0
+315,m101 s2c2,140,PAG,stress,671-L,,baseline,31.333333333333332,721.0
+316,m101 s2c2,160,PAG,stress,671-L,,baseline,29.333333333333332,722.0
+317,m101 s2c2,180,PAG,stress,671-L,,baseline,23.333333333333332,723.0
+318,m101 s2c2,200,PAG,stress,671-L,,baseline,18.0,724.0
+319,m101 s2c3,0,PAG,stress,671-L,,baseline,11.333333333333334,832.0
+320,m101 s2c3,20,PAG,stress,671-L,,baseline,13.333333333333334,833.0
+321,m101 s2c3,40,PAG,stress,671-L,,baseline,10.666666666666666,834.0
+322,m101 s2c3,60,PAG,stress,671-L,,baseline,7.333333333333333,835.0
+323,m101 s2c3,80,PAG,stress,671-L,,baseline,6.666666666666667,836.0
+324,m101 s2c3,100,PAG,stress,671-L,,baseline,6.666666666666667,837.0
+325,m101 s2c3,120,PAG,stress,671-L,,baseline,6.0,838.0
+326,m101 s2c3,140,PAG,stress,671-L,,baseline,5.333333333333333,839.0
+327,m101 s2c3,160,PAG,stress,671-L,,baseline,4.666666666666667,840.0
+328,m101 s2c3,180,PAG,stress,671-L,,baseline,4.666666666666667,841.0
+329,m101 s2c3,200,PAG,stress,671-L,,baseline,4.0,842.0
+330,m101 s3c1,0,PAG,stress,671-L,,baseline,0.0,967.0
+331,m101 s3c1,20,PAG,stress,671-L,,baseline,0.0,968.0
+332,m101 s3c1,40,PAG,stress,671-L,,baseline,0.0,969.0
+333,m101 s3c1,60,PAG,stress,671-L,,baseline,0.0,970.0
+334,m101 s3c1,80,PAG,stress,671-L,,baseline,7.333333333333333,971.0
+335,m101 s3c1,100,PAG,stress,671-L,,baseline,14.0,972.0
+336,m101 s3c1,120,PAG,stress,671-L,,baseline,20.666666666666668,973.0
+337,m101 s3c1,140,PAG,stress,671-L,,baseline,24.0,974.0
+338,m101 s3c1,160,PAG,stress,671-L,,baseline,26.666666666666668,975.0
+339,m101 s3c1,180,PAG,stress,671-L,,baseline,29.333333333333332,976.0
+340,m101 s3c1,200,PAG,stress,671-L,,baseline,31.333333333333332,977.0
+341,m101 s3c2,0,PAG,stress,671-L,,baseline,0.0,1115.0
+342,m101 s3c2,20,PAG,stress,671-L,,baseline,0.0,1116.0
+343,m101 s3c2,40,PAG,stress,671-L,,baseline,0.0,1117.0
+344,m101 s3c2,60,PAG,stress,671-L,,baseline,0.0,1118.0
+345,m101 s3c2,80,PAG,stress,671-L,,baseline,0.0,1119.0
+346,m101 s3c2,100,PAG,stress,671-L,,baseline,8.0,1120.0
+347,m101 s3c2,120,PAG,stress,671-L,,baseline,16.0,1121.0
+348,m101 s3c2,140,PAG,stress,671-L,,baseline,22.0,1122.0
+349,m101 s3c2,160,PAG,stress,671-L,,baseline,25.333333333333332,1123.0
+350,m101 s3c2,180,PAG,stress,671-L,,baseline,28.666666666666668,1124.0
+351,m101 s3c2,200,PAG,stress,671-L,,baseline,30.666666666666668,1125.0
+352,m101 s3c3,0,PAG,stress,671-L,,baseline,0.0,1317.5
+353,m101 s3c3,20,PAG,stress,671-L,,baseline,0.5,1318.5
+354,m101 s3c3,40,PAG,stress,671-L,,baseline,2.5,1319.5
+355,m101 s3c3,60,PAG,stress,671-L,,baseline,6.0,1320.5
+356,m101 s3c3,80,PAG,stress,671-L,,baseline,10.5,1321.5
+357,m101 s3c3,100,PAG,stress,671-L,,baseline,12.5,1322.5
+358,m101 s3c3,120,PAG,stress,671-L,,baseline,16.5,1323.5
+359,m101 s3c3,140,PAG,stress,671-L,,baseline,18.5,1324.5
+360,m101 s3c3,160,PAG,stress,671-L,,baseline,22.0,1325.5
+361,m101 s3c3,180,PAG,stress,671-L,,baseline,23.5,1326.5
+362,m101 s3c3,200,PAG,stress,671-L,,baseline,25.5,1327.5
+363,m102 s1c1,0,BNST,naive,675-RL,,baseline,5.333333333333333,16.0
+364,m102 s1c1,20,BNST,naive,675-RL,,baseline,10.0,17.0
+365,m102 s1c1,40,BNST,naive,675-RL,,baseline,14.0,18.0
+366,m102 s1c1,60,BNST,naive,675-RL,,baseline,12.666666666666666,19.0
+367,m102 s1c1,80,BNST,naive,675-RL,,baseline,8.0,20.0
+368,m102 s1c1,100,BNST,naive,675-RL,,baseline,8.666666666666666,21.0
+369,m102 s1c1,120,BNST,naive,675-RL,,baseline,6.666666666666667,22.0
+370,m102 s1c1,140,BNST,naive,675-RL,,baseline,6.0,23.0
+371,m102 s1c1,160,BNST,naive,675-RL,,baseline,6.0,24.0
+372,m102 s1c1,180,BNST,naive,675-RL,,baseline,5.333333333333333,25.0
+373,m102 s1c1,200,BNST,naive,675-RL,,baseline,5.333333333333333,26.0
+374,m102 s1c2,0,BNST,naive,675-RL,,baseline,0.6666666666666666,133.0
+375,m102 s1c2,20,BNST,naive,675-RL,,baseline,11.333333333333334,134.0
+376,m102 s1c2,40,BNST,naive,675-RL,,baseline,20.666666666666668,135.0
+377,m102 s1c2,60,BNST,naive,675-RL,,baseline,30.0,136.0
+378,m102 s1c2,80,BNST,naive,675-RL,,baseline,34.0,137.0
+379,m102 s1c2,100,BNST,naive,675-RL,,baseline,39.333333333333336,138.0
+380,m102 s1c2,120,BNST,naive,675-RL,,baseline,40.666666666666664,139.0
+381,m102 s1c2,140,BNST,naive,675-RL,,baseline,36.0,140.0
+382,m102 s1c2,160,BNST,naive,675-RL,,baseline,20.0,141.0
+383,m102 s1c2,180,BNST,naive,675-RL,,baseline,16.666666666666668,142.0
+384,m102 s1c2,200,BNST,naive,675-RL,,baseline,12.666666666666666,143.0
+385,m103 s1c1,0,PAG,naive,675-L,,baseline,0.0,16.0
+386,m103 s1c1,20,PAG,naive,675-L,,baseline,0.0,17.0
+387,m103 s1c1,40,PAG,naive,675-L,,baseline,6.666666666666667,18.0
+388,m103 s1c1,60,PAG,naive,675-L,,baseline,12.666666666666666,19.0
+389,m103 s1c1,80,PAG,naive,675-L,,baseline,16.0,20.0
+390,m103 s1c1,100,PAG,naive,675-L,,baseline,16.666666666666668,21.0
+391,m103 s1c1,120,PAG,naive,675-L,,baseline,16.0,22.0
+392,m103 s1c1,140,PAG,naive,675-L,,baseline,14.666666666666666,23.0
+393,m103 s1c1,160,PAG,naive,675-L,,baseline,10.0,24.0
+394,m103 s1c1,180,PAG,naive,675-L,,baseline,8.666666666666666,25.0
+395,m103 s1c1,200,PAG,naive,675-L,,baseline,6.666666666666667,26.0
+396,m103 s2c1,0,PAG,naive,675-L,,baseline,0.0,164.0
+397,m103 s2c1,20,PAG,naive,675-L,,baseline,1.3333333333333333,165.0
+398,m103 s2c1,40,PAG,naive,675-L,,baseline,7.333333333333333,166.0
+399,m103 s2c1,60,PAG,naive,675-L,,baseline,10.0,167.0
+400,m103 s2c1,80,PAG,naive,675-L,,baseline,13.333333333333334,168.0
+401,m103 s2c1,100,PAG,naive,675-L,,baseline,14.666666666666666,169.0
+402,m103 s2c1,120,PAG,naive,675-L,,baseline,16.0,170.0
+403,m103 s2c1,140,PAG,naive,675-L,,baseline,19.333333333333332,171.0
+404,m103 s2c1,160,PAG,naive,675-L,,baseline,18.666666666666668,172.0
+405,m103 s2c1,180,PAG,naive,675-L,,baseline,18.0,173.0
+406,m103 s2c1,200,PAG,naive,675-L,,baseline,16.666666666666668,174.0
+407,m103 s2c2,0,PAG,naive,675-L,,baseline,0.0,282.0
+408,m103 s2c2,20,PAG,naive,675-L,,baseline,0.0,283.0
+409,m103 s2c2,40,PAG,naive,675-L,,baseline,2.0,284.0
+410,m103 s2c2,60,PAG,naive,675-L,,baseline,8.0,285.0
+411,m103 s2c2,80,PAG,naive,675-L,,baseline,12.666666666666666,286.0
+412,m103 s2c2,100,PAG,naive,675-L,,baseline,16.666666666666668,287.0
+413,m103 s2c2,120,PAG,naive,675-L,,baseline,21.333333333333332,288.0
+414,m103 s2c2,140,PAG,naive,675-L,,baseline,25.333333333333332,289.0
+415,m103 s2c2,160,PAG,naive,675-L,,baseline,28.666666666666668,290.0
+416,m103 s2c2,180,PAG,naive,675-L,,baseline,30.666666666666668,291.0
+417,m103 s2c2,200,PAG,naive,675-L,,baseline,30.0,292.0
+418,m103 s3c1,0,PAG,naive,675-L,,baseline,0.0,415.0
+419,m103 s3c1,20,PAG,naive,675-L,,baseline,0.0,416.0
+420,m103 s3c1,40,PAG,naive,675-L,,baseline,0.0,417.0
+421,m103 s3c1,60,PAG,naive,675-L,,baseline,0.6666666666666666,418.0
+422,m103 s3c1,80,PAG,naive,675-L,,baseline,2.6666666666666665,419.0
+423,m103 s3c1,100,PAG,naive,675-L,,baseline,3.3333333333333335,420.0
+424,m103 s3c1,120,PAG,naive,675-L,,baseline,4.0,421.0
+425,m103 s3c1,140,PAG,naive,675-L,,baseline,3.3333333333333335,422.0
+426,m103 s3c1,160,PAG,naive,675-L,,baseline,3.3333333333333335,423.0
+427,m103 s3c1,180,PAG,naive,675-L,,baseline,3.3333333333333335,424.0
+428,m103 s3c1,200,PAG,naive,675-L,,baseline,4.0,425.0
+429,m103 s3c2,0,PAG,naive,675-L,,baseline,0.0,533.0
+430,m103 s3c2,20,PAG,naive,675-L,,baseline,2.0,534.0
+431,m103 s3c2,40,PAG,naive,675-L,,baseline,7.333333333333333,535.0
+432,m103 s3c2,60,PAG,naive,675-L,,baseline,14.666666666666666,536.0
+433,m103 s3c2,80,PAG,naive,675-L,,baseline,14.666666666666666,537.0
+434,m103 s3c2,100,PAG,naive,675-L,,baseline,9.333333333333334,538.0
+435,m103 s3c2,120,PAG,naive,675-L,,baseline,7.333333333333333,539.0
+436,m103 s3c2,140,PAG,naive,675-L,,baseline,4.666666666666667,540.0
+437,m103 s3c2,160,PAG,naive,675-L,,baseline,4.666666666666667,541.0
+438,m103 s3c2,180,PAG,naive,675-L,,baseline,4.0,542.0
+439,m103 s3c2,200,PAG,naive,675-L,,baseline,4.0,543.0
+440,m103 s3c3,0,PAG,naive,675-L,,baseline,0.0,672.0
+441,m103 s3c3,20,PAG,naive,675-L,,baseline,0.0,673.0
+442,m103 s3c3,40,PAG,naive,675-L,,baseline,0.6666666666666666,674.0
+443,m103 s3c3,60,PAG,naive,675-L,,baseline,6.0,675.0
+444,m103 s3c3,80,PAG,naive,675-L,,baseline,12.0,676.0
+445,m103 s3c3,100,PAG,naive,675-L,,baseline,18.0,677.0
+446,m103 s3c3,120,PAG,naive,675-L,,baseline,23.333333333333332,678.0
+447,m103 s3c3,140,PAG,naive,675-L,,baseline,29.333333333333332,679.0
+448,m103 s3c3,160,PAG,naive,675-L,,baseline,34.666666666666664,680.0
+449,m103 s3c3,180,PAG,naive,675-L,,baseline,40.0,681.0
+450,m103 s3c3,200,PAG,naive,675-L,,baseline,44.666666666666664,682.0
+451,m103 s3c4,0,PAG,naive,675-L,,baseline,2.0,790.0
+452,m103 s3c4,20,PAG,naive,675-L,,baseline,3.3333333333333335,791.0
+453,m103 s3c4,40,PAG,naive,675-L,,baseline,9.333333333333334,792.0
+454,m103 s3c4,60,PAG,naive,675-L,,baseline,12.666666666666666,793.0
+455,m103 s3c4,80,PAG,naive,675-L,,baseline,15.333333333333334,794.0
+456,m103 s3c4,100,PAG,naive,675-L,,baseline,18.666666666666668,795.0
+457,m103 s3c4,120,PAG,naive,675-L,,baseline,18.0,796.0
+458,m103 s3c4,140,PAG,naive,675-L,,baseline,19.333333333333332,797.0
+459,m103 s3c4,160,PAG,naive,675-L,,baseline,16.0,798.0
+460,m103 s3c4,180,PAG,naive,675-L,,baseline,11.333333333333334,799.0
+461,m103 s3c4,200,PAG,naive,675-L,,baseline,8.666666666666666,800.0
+462,m103 s3c5,0,PAG,naive,675-L,,baseline,0.0,908.0
+463,m103 s3c5,20,PAG,naive,675-L,,baseline,0.0,909.0
+464,m103 s3c5,40,PAG,naive,675-L,,baseline,2.0,910.0
+465,m103 s3c5,60,PAG,naive,675-L,,baseline,3.3333333333333335,911.0
+466,m103 s3c5,80,PAG,naive,675-L,,baseline,4.666666666666667,912.0
+467,m103 s3c5,100,PAG,naive,675-L,,baseline,5.333333333333333,913.0
+468,m103 s3c5,120,PAG,naive,675-L,,baseline,5.333333333333333,914.0
+469,m103 s3c5,140,PAG,naive,675-L,,baseline,7.333333333333333,915.0
+470,m103 s3c5,160,PAG,naive,675-L,,baseline,7.333333333333333,916.0
+471,m103 s3c5,180,PAG,naive,675-L,,baseline,7.333333333333333,917.0
+472,m103 s3c5,200,PAG,naive,675-L,,baseline,6.0,918.0
+473,m103 s3c6,0,PAG,naive,675-L,,baseline,0.0,1026.0
+474,m103 s3c6,20,PAG,naive,675-L,,baseline,0.0,1027.0
+475,m103 s3c6,40,PAG,naive,675-L,,baseline,0.0,1028.0
+476,m103 s3c6,60,PAG,naive,675-L,,baseline,0.0,1029.0
+477,m103 s3c6,80,PAG,naive,675-L,,baseline,0.0,1030.0
+478,m103 s3c6,100,PAG,naive,675-L,,baseline,0.0,1031.0
+479,m103 s3c6,120,PAG,naive,675-L,,baseline,2.0,1032.0
+480,m103 s3c6,140,PAG,naive,675-L,,baseline,2.0,1033.0
+481,m103 s3c6,160,PAG,naive,675-L,,baseline,4.0,1034.0
+482,m103 s3c6,180,PAG,naive,675-L,,baseline,4.0,1035.0
+483,m103 s3c6,200,PAG,naive,675-L,,baseline,6.0,1036.0
+484,m104 s1c1,0,BNST,stress,671-0,,baseline,0.0,16.0
+485,m104 s1c1,20,BNST,stress,671-0,,baseline,0.0,17.0
+486,m104 s1c1,40,BNST,stress,671-0,,baseline,0.0,18.0
+487,m104 s1c1,60,BNST,stress,671-0,,baseline,12.666666666666666,19.0
+488,m104 s1c1,80,BNST,stress,671-0,,baseline,26.666666666666668,20.0
+489,m104 s1c1,100,BNST,stress,671-0,,baseline,28.0,21.0
+490,m104 s1c1,120,BNST,stress,671-0,,baseline,29.333333333333332,22.0
+491,m104 s1c1,140,BNST,stress,671-0,,baseline,25.333333333333332,23.0
+492,m104 s1c1,160,BNST,stress,671-0,,baseline,19.333333333333332,24.0
+493,m104 s1c1,180,BNST,stress,671-0,,baseline,20.0,25.0
+494,m104 s1c1,200,BNST,stress,671-0,,baseline,16.0,26.0
+495,m104 s2c1,0,BNST,stress,671-0,,baseline,0.0,154.0
+496,m104 s2c1,20,BNST,stress,671-0,,baseline,2.0,155.0
+497,m104 s2c1,40,BNST,stress,671-0,,baseline,8.0,156.0
+498,m104 s2c1,60,BNST,stress,671-0,,baseline,12.0,157.0
+499,m104 s2c1,80,BNST,stress,671-0,,baseline,15.333333333333334,158.0
+500,m104 s2c1,100,BNST,stress,671-0,,baseline,14.0,159.0
+501,m104 s2c1,120,BNST,stress,671-0,,baseline,14.0,160.0
+502,m104 s2c1,140,BNST,stress,671-0,,baseline,14.0,161.0
+503,m104 s2c1,160,BNST,stress,671-0,,baseline,10.666666666666666,162.0
+504,m104 s2c1,180,BNST,stress,671-0,,baseline,10.0,163.0
+505,m104 s2c1,200,BNST,stress,671-0,,baseline,10.0,164.0
+506,m104 s2c2,0,BNST,stress,671-0,,baseline,3.3333333333333335,272.0
+507,m104 s2c2,20,BNST,stress,671-0,,baseline,8.666666666666666,273.0
+508,m104 s2c2,40,BNST,stress,671-0,,baseline,12.0,274.0
+509,m104 s2c2,60,BNST,stress,671-0,,baseline,16.666666666666668,275.0
+510,m104 s2c2,80,BNST,stress,671-0,,baseline,22.0,276.0
+511,m104 s2c2,100,BNST,stress,671-0,,baseline,25.333333333333332,277.0
+512,m104 s2c2,120,BNST,stress,671-0,,baseline,28.666666666666668,278.0
+513,m104 s2c2,140,BNST,stress,671-0,,baseline,30.666666666666668,279.0
+514,m104 s2c2,160,BNST,stress,671-0,,baseline,34.0,280.0
+515,m104 s2c2,180,BNST,stress,671-0,,baseline,36.0,281.0
+516,m104 s2c2,200,BNST,stress,671-0,,baseline,37.333333333333336,282.0
+517,m104 s2c3,0,BNST,stress,671-0,,baseline,0.0,390.0
+518,m104 s2c3,20,BNST,stress,671-0,,baseline,1.3333333333333333,391.0
+519,m104 s2c3,40,BNST,stress,671-0,,baseline,5.333333333333333,392.0
+520,m104 s2c3,60,BNST,stress,671-0,,baseline,4.666666666666667,393.0
+521,m104 s2c3,80,BNST,stress,671-0,,baseline,5.333333333333333,394.0
+522,m104 s2c3,100,BNST,stress,671-0,,baseline,4.666666666666667,395.0
+523,m104 s2c3,120,BNST,stress,671-0,,baseline,6.0,396.0
+524,m104 s2c3,140,BNST,stress,671-0,,baseline,6.0,397.0
+525,m104 s2c3,160,BNST,stress,671-0,,baseline,6.0,398.0
+526,m104 s2c3,180,BNST,stress,671-0,,baseline,6.666666666666667,399.0
+527,m104 s2c3,200,BNST,stress,671-0,,baseline,6.666666666666667,400.0
+528,m104 s3c1,0,BNST,stress,671-0,,baseline,0.0,637.0
+529,m104 s3c1,20,BNST,stress,671-0,,baseline,0.0,638.0
+530,m104 s3c1,40,BNST,stress,671-0,,baseline,0.0,639.0
+531,m104 s3c1,60,BNST,stress,671-0,,baseline,6.666666666666667,640.0
+532,m104 s3c1,80,BNST,stress,671-0,,baseline,12.666666666666666,641.0
+533,m104 s3c1,100,BNST,stress,671-0,,baseline,18.666666666666668,642.0
+534,m104 s3c1,120,BNST,stress,671-0,,baseline,23.333333333333332,643.0
+535,m104 s3c1,140,BNST,stress,671-0,,baseline,26.666666666666668,644.0
+536,m104 s3c1,160,BNST,stress,671-0,,baseline,26.0,645.0
+537,m104 s3c1,180,BNST,stress,671-0,,baseline,20.0,646.0
+538,m104 s3c1,200,BNST,stress,671-0,,baseline,15.333333333333334,647.0
+539,m104 s4c1,0,BNST,stress,671-0,,baseline,0.0,843.0
+540,m104 s4c1,20,BNST,stress,671-0,,baseline,0.0,844.0
+541,m104 s4c1,40,BNST,stress,671-0,,baseline,1.3333333333333333,845.0
+542,m104 s4c1,60,BNST,stress,671-0,,baseline,2.0,846.0
+543,m104 s4c1,80,BNST,stress,671-0,,baseline,2.6666666666666665,847.0
+544,m104 s4c1,100,BNST,stress,671-0,,baseline,2.6666666666666665,848.0
+545,m104 s4c1,120,BNST,stress,671-0,,baseline,3.3333333333333335,849.0
+546,m104 s4c1,140,BNST,stress,671-0,,baseline,3.3333333333333335,850.0
+547,m104 s4c1,160,BNST,stress,671-0,,baseline,3.3333333333333335,851.0
+548,m104 s4c1,180,BNST,stress,671-0,,baseline,3.3333333333333335,852.0
+549,m104 s4c1,200,BNST,stress,671-0,,baseline,3.3333333333333335,853.0
+550,m105 s2c2,0,BNST,stress,674-L,,baseline,0.0,252.0
+551,m105 s2c2,20,BNST,stress,674-L,,baseline,1.3333333333333333,253.0
+552,m105 s2c2,40,BNST,stress,674-L,,baseline,5.333333333333333,254.0
+553,m105 s2c2,60,BNST,stress,674-L,,baseline,6.666666666666667,255.0
+554,m105 s2c2,80,BNST,stress,674-L,,baseline,4.666666666666667,256.0
+555,m105 s2c2,100,BNST,stress,674-L,,baseline,6.0,257.0
+556,m105 s2c2,120,BNST,stress,674-L,,baseline,4.0,258.0
+557,m105 s2c2,140,BNST,stress,674-L,,baseline,4.666666666666667,259.0
+558,m105 s2c2,160,BNST,stress,674-L,,baseline,4.666666666666667,260.0
+559,m105 s2c2,180,BNST,stress,674-L,,baseline,3.3333333333333335,261.0
+560,m105 s2c2,200,BNST,stress,674-L,,baseline,3.3333333333333335,262.0
+561,m105 s2c3,0,BNST,stress,674-L,,baseline,0.0,370.0
+562,m105 s2c3,20,BNST,stress,674-L,,baseline,0.0,371.0
+563,m105 s2c3,40,BNST,stress,674-L,,baseline,3.3333333333333335,372.0
+564,m105 s2c3,60,BNST,stress,674-L,,baseline,4.666666666666667,373.0
+565,m105 s2c3,80,BNST,stress,674-L,,baseline,5.333333333333333,374.0
+566,m105 s2c3,100,BNST,stress,674-L,,baseline,8.0,375.0
+567,m105 s2c3,120,BNST,stress,674-L,,baseline,7.333333333333333,376.0
+568,m105 s2c3,140,BNST,stress,674-L,,baseline,6.666666666666667,377.0
+569,m105 s2c3,160,BNST,stress,674-L,,baseline,6.666666666666667,378.0
+570,m105 s2c3,180,BNST,stress,674-L,,baseline,6.0,379.0
+571,m105 s2c3,200,BNST,stress,674-L,,baseline,6.0,380.0
+572,m105 s3c2,0,BNST,stress,674-L,,baseline,0.0,504.0
+573,m105 s3c2,20,BNST,stress,674-L,,baseline,0.0,505.0
+574,m105 s3c2,40,BNST,stress,674-L,,baseline,0.0,506.0
+575,m105 s3c2,60,BNST,stress,674-L,,baseline,0.0,507.0
+576,m105 s3c2,80,BNST,stress,674-L,,baseline,0.6666666666666666,508.0
+577,m105 s3c2,100,BNST,stress,674-L,,baseline,2.0,509.0
+578,m105 s3c2,120,BNST,stress,674-L,,baseline,2.6666666666666665,510.0
+579,m105 s3c2,140,BNST,stress,674-L,,baseline,2.6666666666666665,511.0
+580,m105 s3c2,160,BNST,stress,674-L,,baseline,4.0,512.0
+581,m105 s3c2,180,BNST,stress,674-L,,baseline,4.666666666666667,513.0
+582,m105 s3c2,200,BNST,stress,674-L,,baseline,4.666666666666667,514.0
+583,m106 s1c1,0,BNST,naive,675-R,,baseline,0.0,16.0
+584,m106 s1c1,20,BNST,naive,675-R,,baseline,0.6666666666666666,17.0
+585,m106 s1c1,40,BNST,naive,675-R,,baseline,2.0,18.0
+586,m106 s1c1,60,BNST,naive,675-R,,baseline,2.6666666666666665,19.0
+587,m106 s1c1,80,BNST,naive,675-R,,baseline,2.6666666666666665,20.0
+588,m106 s1c1,100,BNST,naive,675-R,,baseline,2.6666666666666665,21.0
+589,m106 s1c1,120,BNST,naive,675-R,,baseline,2.6666666666666665,22.0
+590,m106 s1c1,140,BNST,naive,675-R,,baseline,2.0,23.0
+591,m106 s1c1,160,BNST,naive,675-R,,baseline,2.0,24.0
+592,m106 s1c1,180,BNST,naive,675-R,,baseline,2.0,25.0
+593,m106 s1c1,200,BNST,naive,675-R,,baseline,2.0,26.0
+594,m106 s1c2,0,BNST,naive,675-R,,baseline,0.0,134.0
+595,m106 s1c2,20,BNST,naive,675-R,,baseline,0.0,135.0
+596,m106 s1c2,40,BNST,naive,675-R,,baseline,0.6666666666666666,136.0
+597,m106 s1c2,60,BNST,naive,675-R,,baseline,5.333333333333333,137.0
+598,m106 s1c2,80,BNST,naive,675-R,,baseline,10.0,138.0
+599,m106 s1c2,100,BNST,naive,675-R,,baseline,14.0,139.0
+600,m106 s1c2,120,BNST,naive,675-R,,baseline,16.0,140.0
+601,m106 s1c2,140,BNST,naive,675-R,,baseline,18.0,141.0
+602,m106 s1c2,160,BNST,naive,675-R,,baseline,19.333333333333332,142.0
+603,m106 s1c2,180,BNST,naive,675-R,,baseline,20.666666666666668,143.0
+604,m106 s1c2,200,BNST,naive,675-R,,baseline,20.666666666666668,144.0
+605,m106 s1c3,0,BNST,naive,675-R,,baseline,1.3333333333333333,272.0
+606,m106 s1c3,20,BNST,naive,675-R,,baseline,10.0,273.0
+607,m106 s1c3,40,BNST,naive,675-R,,baseline,10.666666666666666,274.0
+608,m106 s1c3,60,BNST,naive,675-R,,baseline,11.333333333333334,275.0
+609,m106 s1c3,80,BNST,naive,675-R,,baseline,10.0,276.0
+610,m106 s1c3,100,BNST,naive,675-R,,baseline,8.666666666666666,277.0
+611,m106 s1c3,120,BNST,naive,675-R,,baseline,8.0,278.0
+612,m106 s1c3,140,BNST,naive,675-R,,baseline,7.333333333333333,279.0
+613,m106 s1c3,160,BNST,naive,675-R,,baseline,7.333333333333333,280.0
+614,m106 s1c3,180,BNST,naive,675-R,,baseline,6.0,281.0
+615,m106 s1c3,200,BNST,naive,675-R,,baseline,6.0,282.0
+616,m106 s1c4,0,BNST,naive,675-R,,baseline,0.0,390.0
+617,m106 s1c4,20,BNST,naive,675-R,,baseline,6.666666666666667,391.0
+618,m106 s1c4,40,BNST,naive,675-R,,baseline,10.666666666666666,392.0
+619,m106 s1c4,60,BNST,naive,675-R,,baseline,10.0,393.0
+620,m106 s1c4,80,BNST,naive,675-R,,baseline,8.666666666666666,394.0
+621,m106 s1c4,100,BNST,naive,675-R,,baseline,6.666666666666667,395.0
+622,m106 s1c4,120,BNST,naive,675-R,,baseline,6.0,396.0
+623,m106 s1c4,140,BNST,naive,675-R,,baseline,4.666666666666667,397.0
+624,m106 s1c4,160,BNST,naive,675-R,,baseline,4.0,398.0
+625,m106 s1c4,180,BNST,naive,675-R,,baseline,4.0,399.0
+626,m106 s1c4,200,BNST,naive,675-R,,baseline,4.0,400.0
+627,m106 s2c1,0,BNST,naive,675-R,,baseline,0.0,508.0
+628,m106 s2c1,20,BNST,naive,675-R,,baseline,0.6666666666666666,509.0
+629,m106 s2c1,40,BNST,naive,675-R,,baseline,11.333333333333334,510.0
+630,m106 s2c1,60,BNST,naive,675-R,,baseline,18.666666666666668,511.0
+631,m106 s2c1,80,BNST,naive,675-R,,baseline,22.666666666666668,512.0
+632,m106 s2c1,100,BNST,naive,675-R,,baseline,26.666666666666668,513.0
+633,m106 s2c1,120,BNST,naive,675-R,,baseline,30.0,514.0
+634,m106 s2c1,140,BNST,naive,675-R,,baseline,32.0,515.0
+635,m106 s2c1,160,BNST,naive,675-R,,baseline,34.666666666666664,516.0
+636,m106 s2c1,180,BNST,naive,675-R,,baseline,36.0,517.0
+637,m106 s2c1,200,BNST,naive,675-R,,baseline,38.0,518.0
+638,m106 s3c1,0,BNST,naive,675-R,,baseline,0.0,626.0
+639,m106 s3c1,20,BNST,naive,675-R,,baseline,0.0,627.0
+640,m106 s3c1,40,BNST,naive,675-R,,baseline,0.0,628.0
+641,m106 s3c1,60,BNST,naive,675-R,,baseline,3.3333333333333335,629.0
+642,m106 s3c1,80,BNST,naive,675-R,,baseline,11.333333333333334,630.0
+643,m106 s3c1,100,BNST,naive,675-R,,baseline,14.0,631.0
+644,m106 s3c1,120,BNST,naive,675-R,,baseline,16.666666666666668,632.0
+645,m106 s3c1,140,BNST,naive,675-R,,baseline,18.666666666666668,633.0
+646,m106 s3c1,160,BNST,naive,675-R,,baseline,21.333333333333332,634.0
+647,m106 s3c1,180,BNST,naive,675-R,,baseline,22.0,635.0
+648,m106 s3c1,200,BNST,naive,675-R,,baseline,23.333333333333332,636.0
+649,m106 s4c1,0,BNST,naive,675-R,,baseline,0.0,738.0
+650,m106 s4c1,20,BNST,naive,675-R,,baseline,0.0,739.0
+651,m106 s4c1,40,BNST,naive,675-R,,baseline,0.0,740.0
+652,m106 s4c1,60,BNST,naive,675-R,,baseline,0.6666666666666666,741.0
+653,m106 s4c1,80,BNST,naive,675-R,,baseline,2.0,742.0
+654,m106 s4c1,100,BNST,naive,675-R,,baseline,2.6666666666666665,743.0
+655,m106 s4c1,120,BNST,naive,675-R,,baseline,3.3333333333333335,744.0
+656,m106 s4c1,140,BNST,naive,675-R,,baseline,3.3333333333333335,745.0
+657,m106 s4c1,160,BNST,naive,675-R,,baseline,4.0,746.0
+658,m106 s4c1,180,BNST,naive,675-R,,baseline,4.0,747.0
+659,m106 s4c1,200,BNST,naive,675-R,,baseline,4.0,748.0
+660,m106 s4c2,0,BNST,naive,675-R,,baseline,0.0,856.0
+661,m106 s4c2,20,BNST,naive,675-R,,baseline,0.6666666666666666,857.0
+662,m106 s4c2,40,BNST,naive,675-R,,baseline,1.3333333333333333,858.0
+663,m106 s4c2,60,BNST,naive,675-R,,baseline,2.0,859.0
+664,m106 s4c2,80,BNST,naive,675-R,,baseline,2.0,860.0
+665,m106 s4c2,100,BNST,naive,675-R,,baseline,2.0,861.0
+666,m106 s4c2,120,BNST,naive,675-R,,baseline,2.0,862.0
+667,m106 s4c2,140,BNST,naive,675-R,,baseline,2.0,863.0
+668,m106 s4c2,160,BNST,naive,675-R,,baseline,2.0,864.0
+669,m106 s4c2,180,BNST,naive,675-R,,baseline,2.0,865.0
+670,m106 s4c2,200,BNST,naive,675-R,,baseline,2.0,866.0
+671,m106 s5c1,0,BNST,naive,675-R,,baseline,1.3333333333333333,970.0
+672,m106 s5c1,20,BNST,naive,675-R,,baseline,17.333333333333332,971.0
+673,m106 s5c1,40,BNST,naive,675-R,,baseline,29.333333333333332,972.0
+674,m106 s5c1,60,BNST,naive,675-R,,baseline,24.666666666666668,973.0
+675,m106 s5c1,80,BNST,naive,675-R,,baseline,20.666666666666668,974.0
+676,m106 s5c1,100,BNST,naive,675-R,,baseline,20.666666666666668,975.0
+677,m106 s5c1,120,BNST,naive,675-R,,baseline,17.333333333333332,976.0
+678,m106 s5c1,140,BNST,naive,675-R,,baseline,14.666666666666666,977.0
+679,m106 s5c1,160,BNST,naive,675-R,,baseline,13.333333333333334,978.0
+680,m106 s5c1,180,BNST,naive,675-R,,baseline,12.666666666666666,979.0
+681,m106 s5c1,200,BNST,naive,675-R,,baseline,8.0,980.0
+682,m107 s1c1,0,PAG,stress,674-0,,baseline,0.0,16.0
+683,m107 s1c1,20,PAG,stress,674-0,,baseline,0.0,17.0
+684,m107 s1c1,40,PAG,stress,674-0,,baseline,0.0,18.0
+685,m107 s1c1,60,PAG,stress,674-0,,baseline,4.666666666666667,19.0
+686,m107 s1c1,80,PAG,stress,674-0,,baseline,9.333333333333334,20.0
+687,m107 s1c1,100,PAG,stress,674-0,,baseline,14.666666666666666,21.0
+688,m107 s1c1,120,PAG,stress,674-0,,baseline,18.666666666666668,22.0
+689,m107 s1c1,140,PAG,stress,674-0,,baseline,22.0,23.0
+690,m107 s1c1,160,PAG,stress,674-0,,baseline,25.333333333333332,24.0
+691,m107 s1c1,180,PAG,stress,674-0,,baseline,28.666666666666668,25.0
+692,m107 s1c1,200,PAG,stress,674-0,,baseline,30.0,26.0
+693,m107 s1c2,0,PAG,stress,674-0,,baseline,0.0,134.0
+694,m107 s1c2,20,PAG,stress,674-0,,baseline,0.0,135.0
+695,m107 s1c2,40,PAG,stress,674-0,,baseline,0.0,136.0
+696,m107 s1c2,60,PAG,stress,674-0,,baseline,0.6666666666666666,137.0
+697,m107 s1c2,80,PAG,stress,674-0,,baseline,8.666666666666666,138.0
+698,m107 s1c2,100,PAG,stress,674-0,,baseline,16.666666666666668,139.0
+699,m107 s1c2,120,PAG,stress,674-0,,baseline,22.666666666666668,140.0
+700,m107 s1c2,140,PAG,stress,674-0,,baseline,29.333333333333332,141.0
+701,m107 s1c2,160,PAG,stress,674-0,,baseline,34.0,142.0
+702,m107 s1c2,180,PAG,stress,674-0,,baseline,37.333333333333336,143.0
+703,m107 s1c2,200,PAG,stress,674-0,,baseline,28.666666666666668,144.0
+704,m107 s1c3,0,PAG,stress,674-0,,baseline,0.0,252.0
+705,m107 s1c3,20,PAG,stress,674-0,,baseline,0.0,253.0
+706,m107 s1c3,40,PAG,stress,674-0,,baseline,0.0,254.0
+707,m107 s1c3,60,PAG,stress,674-0,,baseline,1.3333333333333333,255.0
+708,m107 s1c3,80,PAG,stress,674-0,,baseline,2.6666666666666665,256.0
+709,m107 s1c3,100,PAG,stress,674-0,,baseline,4.0,257.0
+710,m107 s1c3,120,PAG,stress,674-0,,baseline,6.0,258.0
+711,m107 s1c3,140,PAG,stress,674-0,,baseline,9.333333333333334,259.0
+712,m107 s1c3,160,PAG,stress,674-0,,baseline,10.666666666666666,260.0
+713,m107 s1c3,180,PAG,stress,674-0,,baseline,14.0,261.0
+714,m107 s1c3,200,PAG,stress,674-0,,baseline,14.666666666666666,262.0
+715,m107 s2c1,0,PAG,stress,674-0,,baseline,0.0,375.5
+716,m107 s2c1,20,PAG,stress,674-0,,baseline,0.0,376.5
+717,m107 s2c1,40,PAG,stress,674-0,,baseline,0.0,377.5
+718,m107 s2c1,60,PAG,stress,674-0,,baseline,0.0,378.5
+719,m107 s2c1,80,PAG,stress,674-0,,baseline,0.0,379.5
+720,m107 s2c1,100,PAG,stress,674-0,,baseline,1.0,380.5
+721,m107 s2c1,120,PAG,stress,674-0,,baseline,4.0,381.5
+722,m107 s2c1,140,PAG,stress,674-0,,baseline,7.5,382.5
+723,m107 s2c1,160,PAG,stress,674-0,,baseline,10.5,383.5
+724,m107 s2c1,180,PAG,stress,674-0,,baseline,12.5,384.5
+725,m107 s2c1,200,PAG,stress,674-0,,baseline,16.5,385.5
+726,m107 s2c2,0,PAG,stress,674-0,,baseline,0.0,550.0
+727,m107 s2c2,20,PAG,stress,674-0,,baseline,0.0,551.0
+728,m107 s2c2,40,PAG,stress,674-0,,baseline,0.0,552.0
+729,m107 s2c2,60,PAG,stress,674-0,,baseline,4.666666666666667,553.0
+730,m107 s2c2,80,PAG,stress,674-0,,baseline,12.666666666666666,554.0
+731,m107 s2c2,100,PAG,stress,674-0,,baseline,20.0,555.0
+732,m107 s2c2,120,PAG,stress,674-0,,baseline,25.333333333333332,556.0
+733,m107 s2c2,140,PAG,stress,674-0,,baseline,31.333333333333332,557.0
+734,m107 s2c2,160,PAG,stress,674-0,,baseline,34.666666666666664,558.0
+735,m107 s2c2,180,PAG,stress,674-0,,baseline,39.333333333333336,559.0
+736,m107 s2c2,200,PAG,stress,674-0,,baseline,42.0,560.0
+737,m107 s4c1,0,PAG,stress,674-0,,baseline,0.0,719.0
+738,m107 s4c1,20,PAG,stress,674-0,,baseline,0.0,720.0
+739,m107 s4c1,40,PAG,stress,674-0,,baseline,6.0,721.0
+740,m107 s4c1,60,PAG,stress,674-0,,baseline,10.666666666666666,722.0
+741,m107 s4c1,80,PAG,stress,674-0,,baseline,16.0,723.0
+742,m107 s4c1,100,PAG,stress,674-0,,baseline,21.333333333333332,724.0
+743,m107 s4c1,120,PAG,stress,674-0,,baseline,26.0,725.0
+744,m107 s4c1,140,PAG,stress,674-0,,baseline,30.0,726.0
+745,m107 s4c1,160,PAG,stress,674-0,,baseline,34.666666666666664,727.0
+746,m107 s4c1,180,PAG,stress,674-0,,baseline,38.0,728.0
+747,m107 s4c1,200,PAG,stress,674-0,,baseline,41.333333333333336,729.0
+748,m107 s5c1,0,PAG,stress,674-0,,baseline,0.0,837.0
+749,m107 s5c1,20,PAG,stress,674-0,,baseline,0.0,838.0
+750,m107 s5c1,40,PAG,stress,674-0,,baseline,0.0,839.0
+751,m107 s5c1,60,PAG,stress,674-0,,baseline,8.666666666666666,840.0
+752,m107 s5c1,80,PAG,stress,674-0,,baseline,21.333333333333332,841.0
+753,m107 s5c1,100,PAG,stress,674-0,,baseline,28.0,842.0
+754,m107 s5c1,120,PAG,stress,674-0,,baseline,34.0,843.0
+755,m107 s5c1,140,PAG,stress,674-0,,baseline,39.333333333333336,844.0
+756,m107 s5c1,160,PAG,stress,674-0,,baseline,44.0,845.0
+757,m107 s5c1,180,PAG,stress,674-0,,baseline,46.666666666666664,846.0
+758,m107 s5c1,200,PAG,stress,674-0,,baseline,50.0,847.0
+759,m108 s1c3,0,BNST,naive,670-L,,baseline,0.0,117.0
+760,m108 s1c3,20,BNST,naive,670-L,,baseline,0.0,118.0
+761,m108 s1c3,40,BNST,naive,670-L,,baseline,0.6666666666666666,119.0
+762,m108 s1c3,60,BNST,naive,670-L,,baseline,6.0,120.0
+763,m108 s1c3,80,BNST,naive,670-L,,baseline,11.333333333333334,121.0
+764,m108 s1c3,100,BNST,naive,670-L,,baseline,16.0,122.0
+765,m108 s1c3,120,BNST,naive,670-L,,baseline,20.666666666666668,123.0
+766,m108 s1c3,140,BNST,naive,670-L,,baseline,24.666666666666668,124.0
+767,m108 s1c3,160,BNST,naive,670-L,,baseline,25.333333333333332,125.0
+768,m108 s1c3,180,BNST,naive,670-L,,baseline,18.0,126.0
+769,m108 s1c3,200,BNST,naive,670-L,,baseline,13.333333333333334,127.0
+770,m108 s2c1,0,BNST,naive,670-L,,baseline,0.0,235.0
+771,m108 s2c1,20,BNST,naive,670-L,,baseline,0.0,236.0
+772,m108 s2c1,40,BNST,naive,670-L,,baseline,8.0,237.0
+773,m108 s2c1,60,BNST,naive,670-L,,baseline,19.333333333333332,238.0
+774,m108 s2c1,80,BNST,naive,670-L,,baseline,28.0,239.0
+775,m108 s2c1,100,BNST,naive,670-L,,baseline,34.666666666666664,240.0
+776,m108 s2c1,120,BNST,naive,670-L,,baseline,42.0,241.0
+777,m108 s2c1,140,BNST,naive,670-L,,baseline,44.666666666666664,242.0
+778,m108 s2c1,160,BNST,naive,670-L,,baseline,48.666666666666664,243.0
+779,m108 s2c1,180,BNST,naive,670-L,,baseline,51.333333333333336,244.0
+780,m108 s2c1,200,BNST,naive,670-L,,baseline,50.666666666666664,245.0
+781,m108 s2c2,0,BNST,naive,670-L,,baseline,2.6666666666666665,353.0
+782,m108 s2c2,20,BNST,naive,670-L,,baseline,14.666666666666666,354.0
+783,m108 s2c2,40,BNST,naive,670-L,,baseline,25.333333333333332,355.0
+784,m108 s2c2,60,BNST,naive,670-L,,baseline,31.333333333333332,356.0
+785,m108 s2c2,80,BNST,naive,670-L,,baseline,38.0,357.0
+786,m108 s2c2,100,BNST,naive,670-L,,baseline,43.333333333333336,358.0
+787,m108 s2c2,120,BNST,naive,670-L,,baseline,48.0,359.0
+788,m108 s2c2,140,BNST,naive,670-L,,baseline,50.0,360.0
+789,m108 s2c2,160,BNST,naive,670-L,,baseline,53.333333333333336,361.0
+790,m108 s2c2,180,BNST,naive,670-L,,baseline,55.333333333333336,362.0
+791,m108 s2c2,200,BNST,naive,670-L,,baseline,57.333333333333336,363.0
+792,m108 s3c1,0,BNST,naive,670-L,,baseline,23.333333333333332,451.0
+793,m108 s3c1,20,BNST,naive,670-L,,baseline,30.666666666666668,452.0
+794,m108 s3c1,40,BNST,naive,670-L,,baseline,35.333333333333336,453.0
+795,m108 s3c1,60,BNST,naive,670-L,,baseline,38.0,454.0
+796,m108 s3c1,80,BNST,naive,670-L,,baseline,37.333333333333336,455.0
+797,m108 s3c1,100,BNST,naive,670-L,,baseline,40.0,456.0
+798,m108 s3c1,120,BNST,naive,670-L,,baseline,40.0,457.0
+799,m108 s3c1,140,BNST,naive,670-L,,baseline,40.666666666666664,458.0
+800,m108 s3c1,160,BNST,naive,670-L,,baseline,40.666666666666664,459.0
+801,m108 s3c1,180,BNST,naive,670-L,,baseline,38.666666666666664,460.0
+802,m108 s3c1,200,BNST,naive,670-L,,baseline,35.333333333333336,461.0
+803,m109 s1c1,0,PAG,naive,670-RL,,baseline,0.0,16.0
+804,m109 s1c1,20,PAG,naive,670-RL,,baseline,0.0,17.0
+805,m109 s1c1,40,PAG,naive,670-RL,,baseline,0.0,18.0
+806,m109 s1c1,60,PAG,naive,670-RL,,baseline,13.333333333333334,19.0
+807,m109 s1c1,80,PAG,naive,670-RL,,baseline,23.333333333333332,20.0
+808,m109 s1c1,100,PAG,naive,670-RL,,baseline,29.333333333333332,21.0
+809,m109 s1c1,120,PAG,naive,670-RL,,baseline,33.333333333333336,22.0
+810,m109 s1c1,140,PAG,naive,670-RL,,baseline,36.0,23.0
+811,m109 s1c1,160,PAG,naive,670-RL,,baseline,30.666666666666668,24.0
+812,m109 s1c1,180,PAG,naive,670-RL,,baseline,22.0,25.0
+813,m109 s1c1,200,PAG,naive,670-RL,,baseline,16.0,26.0
+814,m109 s1c2,0,PAG,naive,670-RL,,baseline,0.0,134.0
+815,m109 s1c2,20,PAG,naive,670-RL,,baseline,0.0,135.0
+816,m109 s1c2,40,PAG,naive,670-RL,,baseline,8.0,136.0
+817,m109 s1c2,60,PAG,naive,670-RL,,baseline,16.666666666666668,137.0
+818,m109 s1c2,80,PAG,naive,670-RL,,baseline,24.666666666666668,138.0
+819,m109 s1c2,100,PAG,naive,670-RL,,baseline,32.666666666666664,139.0
+820,m109 s1c2,120,PAG,naive,670-RL,,baseline,39.333333333333336,140.0
+821,m109 s1c2,140,PAG,naive,670-RL,,baseline,44.666666666666664,141.0
+822,m109 s1c2,160,PAG,naive,670-RL,,baseline,51.333333333333336,142.0
+823,m109 s1c2,180,PAG,naive,670-RL,,baseline,56.0,143.0
+824,m109 s1c2,200,PAG,naive,670-RL,,baseline,62.0,144.0
+825,m110 s1c1,0,SNL,stress,751-R,,baseline,0.0,60.0
+826,m110 s1c1,20,SNL,stress,751-R,,baseline,0.0,61.0
+827,m110 s1c1,40,SNL,stress,751-R,,baseline,0.0,62.0
+828,m110 s1c1,60,SNL,stress,751-R,,baseline,0.0,63.0
+829,m110 s1c1,80,SNL,stress,751-R,,baseline,0.6666666666666666,64.0
+830,m110 s1c1,100,SNL,stress,751-R,,baseline,6.0,65.0
+831,m110 s1c1,120,SNL,stress,751-R,,baseline,11.333333333333334,66.0
+832,m110 s1c1,140,SNL,stress,751-R,,baseline,16.0,67.0
+833,m110 s1c1,160,SNL,stress,751-R,,baseline,19.333333333333332,68.0
+834,m110 s1c1,180,SNL,stress,751-R,,baseline,22.666666666666668,69.0
+835,m110 s1c1,200,SNL,stress,751-R,,baseline,26.0,70.0
+836,m110 s1c2,0,SNL,stress,751-R,,baseline,0.0,141.75
+837,m110 s1c2,20,SNL,stress,751-R,,baseline,0.0,142.75
+838,m110 s1c2,40,SNL,stress,751-R,,baseline,14.5,143.75
+839,m110 s1c2,60,SNL,stress,751-R,,baseline,17.0,144.75
+840,m110 s1c2,80,SNL,stress,751-R,,baseline,14.0,145.75
+841,m110 s1c2,100,SNL,stress,751-R,,baseline,12.0,146.75
+842,m110 s1c2,120,SNL,stress,751-R,,baseline,10.5,147.75
+843,m110 s1c2,140,SNL,stress,751-R,,baseline,9.0,148.75
+844,m110 s1c2,160,SNL,stress,751-R,,baseline,8.0,149.75
+845,m110 s1c2,180,SNL,stress,751-R,,baseline,8.5,150.75
+846,m110 s1c2,200,SNL,stress,751-R,,baseline,7.0,151.75
+847,m110 s2c1,0,SNL,stress,751-R,,baseline,0.0,283.0
+848,m110 s2c1,20,SNL,stress,751-R,,baseline,0.0,284.0
+849,m110 s2c1,40,SNL,stress,751-R,,baseline,8.666666666666666,285.0
+850,m110 s2c1,60,SNL,stress,751-R,,baseline,14.666666666666666,286.0
+851,m110 s2c1,80,SNL,stress,751-R,,baseline,19.333333333333332,287.0
+852,m110 s2c1,100,SNL,stress,751-R,,baseline,26.0,288.0
+853,m110 s2c1,120,SNL,stress,751-R,,baseline,30.0,289.0
+854,m110 s2c1,140,SNL,stress,751-R,,baseline,32.666666666666664,290.0
+855,m110 s2c1,160,SNL,stress,751-R,,baseline,36.0,291.0
+856,m110 s2c1,180,SNL,stress,751-R,,baseline,34.0,292.0
+857,m110 s2c1,200,SNL,stress,751-R,,baseline,32.0,293.0
+858,m110 s2c2,0,SNL,stress,751-R,,baseline,0.0,401.0
+859,m110 s2c2,20,SNL,stress,751-R,,baseline,0.0,402.0
+860,m110 s2c2,40,SNL,stress,751-R,,baseline,2.0,403.0
+861,m110 s2c2,60,SNL,stress,751-R,,baseline,8.666666666666666,404.0
+862,m110 s2c2,80,SNL,stress,751-R,,baseline,15.333333333333334,405.0
+863,m110 s2c2,100,SNL,stress,751-R,,baseline,20.666666666666668,406.0
+864,m110 s2c2,120,SNL,stress,751-R,,baseline,24.666666666666668,407.0
+865,m110 s2c2,140,SNL,stress,751-R,,baseline,30.0,408.0
+866,m110 s2c2,160,SNL,stress,751-R,,baseline,34.0,409.0
+867,m110 s2c2,180,SNL,stress,751-R,,baseline,34.666666666666664,410.0
+868,m110 s2c2,200,SNL,stress,751-R,,baseline,33.333333333333336,411.0
+869,m110 s2c3,0,SNL,stress,751-R,,baseline,0.0,519.0
+870,m110 s2c3,20,SNL,stress,751-R,,baseline,0.0,520.0
+871,m110 s2c3,40,SNL,stress,751-R,,baseline,0.0,521.0
+872,m110 s2c3,60,SNL,stress,751-R,,baseline,2.0,522.0
+873,m110 s2c3,80,SNL,stress,751-R,,baseline,8.666666666666666,523.0
+874,m110 s2c3,100,SNL,stress,751-R,,baseline,13.333333333333334,524.0
+875,m110 s2c3,120,SNL,stress,751-R,,baseline,18.666666666666668,525.0
+876,m110 s2c3,140,SNL,stress,751-R,,baseline,22.0,526.0
+877,m110 s2c3,160,SNL,stress,751-R,,baseline,26.0,527.0
+878,m110 s2c3,180,SNL,stress,751-R,,baseline,30.666666666666668,528.0
+879,m110 s2c3,200,SNL,stress,751-R,,baseline,34.666666666666664,529.0
+880,m110 s3c1,0,SNL,stress,751-R,,baseline,0.0,637.0
+881,m110 s3c1,20,SNL,stress,751-R,,baseline,0.0,638.0
+882,m110 s3c1,40,SNL,stress,751-R,,baseline,9.333333333333334,639.0
+883,m110 s3c1,60,SNL,stress,751-R,,baseline,17.333333333333332,640.0
+884,m110 s3c1,80,SNL,stress,751-R,,baseline,26.666666666666668,641.0
+885,m110 s3c1,100,SNL,stress,751-R,,baseline,34.0,642.0
+886,m110 s3c1,120,SNL,stress,751-R,,baseline,42.0,643.0
+887,m110 s3c1,140,SNL,stress,751-R,,baseline,49.333333333333336,644.0
+888,m110 s3c1,160,SNL,stress,751-R,,baseline,54.0,645.0
+889,m110 s3c1,180,SNL,stress,751-R,,baseline,60.0,646.0
+890,m110 s3c1,200,SNL,stress,751-R,,baseline,64.66666666666667,647.0
+891,m110 s3c2,0,SNL,stress,751-R,,baseline,0.0,719.0
+892,m110 s3c2,20,SNL,stress,751-R,,baseline,8.0,720.0
+893,m110 s3c2,40,SNL,stress,751-R,,baseline,22.0,721.0
+894,m110 s3c2,60,SNL,stress,751-R,,baseline,28.0,722.0
+895,m110 s3c2,80,SNL,stress,751-R,,baseline,32.0,723.0
+896,m110 s3c2,100,SNL,stress,751-R,,baseline,24.0,724.0
+897,m110 s3c2,120,SNL,stress,751-R,,baseline,18.0,725.0
+898,m110 s3c2,140,SNL,stress,751-R,,baseline,16.0,726.0
+899,m110 s3c2,160,SNL,stress,751-R,,baseline,14.0,727.0
+900,m110 s3c2,180,SNL,stress,751-R,,baseline,12.0,728.0
+901,m110 s3c2,200,SNL,stress,751-R,,baseline,8.0,729.0
+902,m110 s3c3,0,SNL,stress,751-R,,baseline,0.0,774.0
+903,m110 s3c3,20,SNL,stress,751-R,,baseline,5.333333333333333,775.0
+904,m110 s3c3,40,SNL,stress,751-R,,baseline,14.666666666666666,776.0
+905,m110 s3c3,60,SNL,stress,751-R,,baseline,22.666666666666668,777.0
+906,m110 s3c3,80,SNL,stress,751-R,,baseline,30.0,778.0
+907,m110 s3c3,100,SNL,stress,751-R,,baseline,37.333333333333336,779.0
+908,m110 s3c3,120,SNL,stress,751-R,,baseline,42.666666666666664,780.0
+909,m110 s3c3,140,SNL,stress,751-R,,baseline,46.0,781.0
+910,m110 s3c3,160,SNL,stress,751-R,,baseline,37.333333333333336,782.0
+911,m110 s3c3,180,SNL,stress,751-R,,baseline,20.666666666666668,783.0
+912,m110 s3c3,200,SNL,stress,751-R,,baseline,16.0,784.0
+913,m111 s1c1,0,SNL,naive,756-L,,baseline,0.0,41.0
+914,m111 s1c1,20,SNL,naive,756-L,,baseline,0.0,42.0
+915,m111 s1c1,40,SNL,naive,756-L,,baseline,0.0,43.0
+916,m111 s1c1,60,SNL,naive,756-L,,baseline,1.3333333333333333,44.0
+917,m111 s1c1,80,SNL,naive,756-L,,baseline,5.333333333333333,45.0
+918,m111 s1c1,100,SNL,naive,756-L,,baseline,10.0,46.0
+919,m111 s1c1,120,SNL,naive,756-L,,baseline,14.0,47.0
+920,m111 s1c1,140,SNL,naive,756-L,,baseline,18.666666666666668,48.0
+921,m111 s1c1,160,SNL,naive,756-L,,baseline,22.666666666666668,49.0
+922,m111 s1c1,180,SNL,naive,756-L,,baseline,28.0,50.0
+923,m111 s1c1,200,SNL,naive,756-L,,baseline,32.0,51.0
+924,m111 s1c2,0,SNL,naive,756-L,,baseline,0.0,159.0
+925,m111 s1c2,20,SNL,naive,756-L,,baseline,0.6666666666666666,160.0
+926,m111 s1c2,40,SNL,naive,756-L,,baseline,6.0,161.0
+927,m111 s1c2,60,SNL,naive,756-L,,baseline,12.666666666666666,162.0
+928,m111 s1c2,80,SNL,naive,756-L,,baseline,18.666666666666668,163.0
+929,m111 s1c2,100,SNL,naive,756-L,,baseline,24.0,164.0
+930,m111 s1c2,120,SNL,naive,756-L,,baseline,28.0,165.0
+931,m111 s1c2,140,SNL,naive,756-L,,baseline,32.666666666666664,166.0
+932,m111 s1c2,160,SNL,naive,756-L,,baseline,36.666666666666664,167.0
+933,m111 s1c2,180,SNL,naive,756-L,,baseline,40.666666666666664,168.0
+934,m111 s1c2,200,SNL,naive,756-L,,baseline,44.0,169.0
+935,m111 s1c3,0,SNL,naive,756-L,,baseline,0.0,290.6666666666667
+936,m111 s1c3,20,SNL,naive,756-L,,baseline,0.0,291.6666666666667
+937,m111 s1c3,40,SNL,naive,756-L,,baseline,0.0,292.6666666666667
+938,m111 s1c3,60,SNL,naive,756-L,,baseline,2.0,293.6666666666667
+939,m111 s1c3,80,SNL,naive,756-L,,baseline,7.333333333333333,294.6666666666667
+940,m111 s1c3,100,SNL,naive,756-L,,baseline,11.333333333333334,295.6666666666667
+941,m111 s1c3,120,SNL,naive,756-L,,baseline,14.0,296.6666666666667
+942,m111 s1c3,140,SNL,naive,756-L,,baseline,16.0,297.6666666666667
+943,m111 s1c3,160,SNL,naive,756-L,,baseline,18.0,298.6666666666667
+944,m111 s1c3,180,SNL,naive,756-L,,baseline,18.666666666666668,299.6666666666667
+945,m111 s1c3,200,SNL,naive,756-L,,baseline,18.0,300.6666666666667
+946,m111 s2c1,0,SNL,naive,756-L,,baseline,0.0,416.0
+947,m111 s2c1,20,SNL,naive,756-L,,baseline,0.0,417.0
+948,m111 s2c1,40,SNL,naive,756-L,,baseline,0.0,418.0
+949,m111 s2c1,60,SNL,naive,756-L,,baseline,0.0,419.0
+950,m111 s2c1,80,SNL,naive,756-L,,baseline,2.0,420.0
+951,m111 s2c1,100,SNL,naive,756-L,,baseline,2.6666666666666665,421.0
+952,m111 s2c1,120,SNL,naive,756-L,,baseline,4.0,422.0
+953,m111 s2c1,140,SNL,naive,756-L,,baseline,4.666666666666667,423.0
+954,m111 s2c1,160,SNL,naive,756-L,,baseline,5.333333333333333,424.0
+955,m111 s2c1,180,SNL,naive,756-L,,baseline,6.666666666666667,425.0
+956,m111 s2c1,200,SNL,naive,756-L,,baseline,7.333333333333333,426.0
+957,m111 s2c2,0,SNL,naive,756-L,,baseline,0.0,534.0
+958,m111 s2c2,20,SNL,naive,756-L,,baseline,0.0,535.0
+959,m111 s2c2,40,SNL,naive,756-L,,baseline,0.0,536.0
+960,m111 s2c2,60,SNL,naive,756-L,,baseline,4.666666666666667,537.0
+961,m111 s2c2,80,SNL,naive,756-L,,baseline,10.666666666666666,538.0
+962,m111 s2c2,100,SNL,naive,756-L,,baseline,16.666666666666668,539.0
+963,m111 s2c2,120,SNL,naive,756-L,,baseline,22.0,540.0
+964,m111 s2c2,140,SNL,naive,756-L,,baseline,26.666666666666668,541.0
+965,m111 s2c2,160,SNL,naive,756-L,,baseline,30.0,542.0
+966,m111 s2c2,180,SNL,naive,756-L,,baseline,34.666666666666664,543.0
+967,m111 s2c2,200,SNL,naive,756-L,,baseline,36.0,544.0
+968,m111 s3c1,0,SNL,naive,756-L,,baseline,0.0,667.0
+969,m111 s3c1,20,SNL,naive,756-L,,baseline,0.0,668.0
+970,m111 s3c1,40,SNL,naive,756-L,,baseline,5.333333333333333,669.0
+971,m111 s3c1,60,SNL,naive,756-L,,baseline,7.333333333333333,670.0
+972,m111 s3c1,80,SNL,naive,756-L,,baseline,8.0,671.0
+973,m111 s3c1,100,SNL,naive,756-L,,baseline,8.0,672.0
+974,m111 s3c1,120,SNL,naive,756-L,,baseline,7.333333333333333,673.0
+975,m111 s3c1,140,SNL,naive,756-L,,baseline,6.0,674.0
+976,m111 s3c1,160,SNL,naive,756-L,,baseline,6.666666666666667,675.0
+977,m111 s3c1,180,SNL,naive,756-L,,baseline,6.0,676.0
+978,m111 s3c1,200,SNL,naive,756-L,,baseline,6.0,677.0
+979,m111 s3c2,0,SNL,naive,756-L,,baseline,0.0,785.0
+980,m111 s3c2,20,SNL,naive,756-L,,baseline,0.0,786.0
+981,m111 s3c2,40,SNL,naive,756-L,,baseline,0.0,787.0
+982,m111 s3c2,60,SNL,naive,756-L,,baseline,0.0,788.0
+983,m111 s3c2,80,SNL,naive,756-L,,baseline,0.0,789.0
+984,m111 s3c2,100,SNL,naive,756-L,,baseline,2.6666666666666665,790.0
+985,m111 s3c2,120,SNL,naive,756-L,,baseline,8.666666666666666,791.0
+986,m111 s3c2,140,SNL,naive,756-L,,baseline,17.333333333333332,792.0
+987,m111 s3c2,160,SNL,naive,756-L,,baseline,32.0,793.0
+988,m111 s3c2,180,SNL,naive,756-L,,baseline,40.666666666666664,794.0
+989,m111 s3c2,200,SNL,naive,756-L,,baseline,48.0,795.0
+990,m111 s3c4,0,SNL,naive,756-L,,baseline,0.0,1082.3333333333333
+991,m111 s3c4,20,SNL,naive,756-L,,baseline,0.0,1083.3333333333333
+992,m111 s3c4,40,SNL,naive,756-L,,baseline,0.0,1084.3333333333333
+993,m111 s3c4,60,SNL,naive,756-L,,baseline,0.0,1085.3333333333333
+994,m111 s3c4,80,SNL,naive,756-L,,baseline,0.0,1086.3333333333333
+995,m111 s3c4,100,SNL,naive,756-L,,baseline,0.0,1087.3333333333333
+996,m111 s3c4,120,SNL,naive,756-L,,baseline,0.0,1088.3333333333333
+997,m111 s3c4,140,SNL,naive,756-L,,baseline,2.0,1089.3333333333333
+998,m111 s3c4,160,SNL,naive,756-L,,baseline,5.333333333333333,1090.3333333333333
+999,m111 s3c4,180,SNL,naive,756-L,,baseline,8.666666666666666,1091.3333333333333
+1000,m111 s3c4,200,SNL,naive,756-L,,baseline,12.666666666666666,1092.3333333333333
+1001,m112 s1c1,0,SNL,stress,751-L,,baseline,0.0,56.0
+1002,m112 s1c1,20,SNL,stress,751-L,,baseline,8.0,57.0
+1003,m112 s1c1,40,SNL,stress,751-L,,baseline,17.333333333333332,58.0
+1004,m112 s1c1,60,SNL,stress,751-L,,baseline,24.666666666666668,59.0
+1005,m112 s1c1,80,SNL,stress,751-L,,baseline,30.0,60.0
+1006,m112 s1c1,100,SNL,stress,751-L,,baseline,33.333333333333336,61.0
+1007,m112 s1c1,120,SNL,stress,751-L,,baseline,35.333333333333336,62.0
+1008,m112 s1c1,140,SNL,stress,751-L,,baseline,35.333333333333336,63.0
+1009,m112 s1c1,160,SNL,stress,751-L,,baseline,30.666666666666668,64.0
+1010,m112 s1c1,180,SNL,stress,751-L,,baseline,26.0,65.0
+1011,m112 s1c1,200,SNL,stress,751-L,,baseline,20.666666666666668,66.0
+1012,m112 s2c1,0,SNL,stress,751-L,,baseline,0.0,185.0
+1013,m112 s2c1,20,SNL,stress,751-L,,baseline,0.0,186.0
+1014,m112 s2c1,40,SNL,stress,751-L,,baseline,0.0,187.0
+1015,m112 s2c1,60,SNL,stress,751-L,,baseline,0.0,188.0
+1016,m112 s2c1,80,SNL,stress,751-L,,baseline,0.0,189.0
+1017,m112 s2c1,100,SNL,stress,751-L,,baseline,0.6666666666666666,190.0
+1018,m112 s2c1,120,SNL,stress,751-L,,baseline,5.333333333333333,191.0
+1019,m112 s2c1,140,SNL,stress,751-L,,baseline,9.333333333333334,192.0
+1020,m112 s2c1,160,SNL,stress,751-L,,baseline,12.0,193.0
+1021,m112 s2c1,180,SNL,stress,751-L,,baseline,16.0,194.0
+1022,m112 s2c1,200,SNL,stress,751-L,,baseline,17.333333333333332,195.0
+1023,m112 s2c2,0,SNL,stress,751-L,,baseline,0.0,313.0
+1024,m112 s2c2,20,SNL,stress,751-L,,baseline,0.0,314.0
+1025,m112 s2c2,40,SNL,stress,751-L,,baseline,9.0,315.0
+1026,m112 s2c2,60,SNL,stress,751-L,,baseline,18.0,316.0
+1027,m112 s2c2,80,SNL,stress,751-L,,baseline,25.0,317.0
+1028,m112 s2c2,100,SNL,stress,751-L,,baseline,30.0,318.0
+1029,m112 s2c2,120,SNL,stress,751-L,,baseline,37.0,319.0
+1030,m112 s2c2,140,SNL,stress,751-L,,baseline,45.0,320.0
+1031,m112 s2c2,160,SNL,stress,751-L,,baseline,49.0,321.0
+1032,m112 s2c2,180,SNL,stress,751-L,,baseline,54.0,322.0
+1033,m112 s2c2,200,SNL,stress,751-L,,baseline,58.0,323.0
+1034,m112 s3c1,0,SNL,stress,751-L,,baseline,0.0,386.0
+1035,m112 s3c1,20,SNL,stress,751-L,,baseline,5.333333333333333,387.0
+1036,m112 s3c1,40,SNL,stress,751-L,,baseline,18.0,388.0
+1037,m112 s3c1,60,SNL,stress,751-L,,baseline,27.333333333333332,389.0
+1038,m112 s3c1,80,SNL,stress,751-L,,baseline,31.333333333333332,390.0
+1039,m112 s3c1,100,SNL,stress,751-L,,baseline,34.0,391.0
+1040,m112 s3c1,120,SNL,stress,751-L,,baseline,31.333333333333332,392.0
+1041,m112 s3c1,140,SNL,stress,751-L,,baseline,23.333333333333332,393.0
+1042,m112 s3c1,160,SNL,stress,751-L,,baseline,15.333333333333334,394.0
+1043,m112 s3c1,180,SNL,stress,751-L,,baseline,10.666666666666666,395.0
+1044,m112 s3c1,200,SNL,stress,751-L,,baseline,8.666666666666666,396.0
+1045,m112 s3c2,0,SNL,stress,751-L,,baseline,0.0,486.0
+1046,m112 s3c2,20,SNL,stress,751-L,,baseline,0.0,487.0
+1047,m112 s3c2,40,SNL,stress,751-L,,baseline,3.0,488.0
+1048,m112 s3c2,60,SNL,stress,751-L,,baseline,15.0,489.0
+1049,m112 s3c2,80,SNL,stress,751-L,,baseline,24.0,490.0
+1050,m112 s3c2,100,SNL,stress,751-L,,baseline,27.0,491.0
+1051,m112 s3c2,120,SNL,stress,751-L,,baseline,27.0,492.0
+1052,m112 s3c2,140,SNL,stress,751-L,,baseline,29.0,493.0
+1053,m112 s3c2,160,SNL,stress,751-L,,baseline,30.0,494.0
+1054,m112 s3c2,180,SNL,stress,751-L,,baseline,26.0,495.0
+1055,m112 s3c2,200,SNL,stress,751-L,,baseline,22.0,496.0
+1056,m112 s3c3,0,SNL,stress,751-L,,baseline,0.0,627.6666666666666
+1057,m112 s3c3,20,SNL,stress,751-L,,baseline,0.0,628.6666666666666
+1058,m112 s3c3,40,SNL,stress,751-L,,baseline,0.0,629.6666666666666
+1059,m112 s3c3,60,SNL,stress,751-L,,baseline,0.0,630.6666666666666
+1060,m112 s3c3,80,SNL,stress,751-L,,baseline,0.6666666666666666,631.6666666666666
+1061,m112 s3c3,100,SNL,stress,751-L,,baseline,4.0,632.6666666666666
+1062,m112 s3c3,120,SNL,stress,751-L,,baseline,8.0,633.6666666666666
+1063,m112 s3c3,140,SNL,stress,751-L,,baseline,10.0,634.6666666666666
+1064,m112 s3c3,160,SNL,stress,751-L,,baseline,14.666666666666666,635.6666666666666
+1065,m112 s3c3,180,SNL,stress,751-L,,baseline,17.333333333333332,636.6666666666666
+1066,m112 s3c3,200,SNL,stress,751-L,,baseline,21.333333333333332,637.6666666666666
+1067,m112 s3c4,0,SNL,stress,751-L,,baseline,0.0,738.0
+1068,m112 s3c4,20,SNL,stress,751-L,,baseline,2.0,739.0
+1069,m112 s3c4,40,SNL,stress,751-L,,baseline,12.0,740.0
+1070,m112 s3c4,60,SNL,stress,751-L,,baseline,22.666666666666668,741.0
+1071,m112 s3c4,80,SNL,stress,751-L,,baseline,32.0,742.0
+1072,m112 s3c4,100,SNL,stress,751-L,,baseline,37.333333333333336,743.0
+1073,m112 s3c4,120,SNL,stress,751-L,,baseline,44.666666666666664,744.0
+1074,m112 s3c4,140,SNL,stress,751-L,,baseline,48.666666666666664,745.0
+1075,m112 s3c4,160,SNL,stress,751-L,,baseline,53.333333333333336,746.0
+1076,m112 s3c4,180,SNL,stress,751-L,,baseline,57.333333333333336,747.0
+1077,m112 s3c4,200,SNL,stress,751-L,,baseline,60.0,748.0
+1078,m112 s4c1,0,SNL,stress,751-L,,baseline,0.0,856.0
+1079,m112 s4c1,20,SNL,stress,751-L,,baseline,0.0,857.0
+1080,m112 s4c1,40,SNL,stress,751-L,,baseline,0.0,858.0
+1081,m112 s4c1,60,SNL,stress,751-L,,baseline,0.6666666666666666,859.0
+1082,m112 s4c1,80,SNL,stress,751-L,,baseline,4.0,860.0
+1083,m112 s4c1,100,SNL,stress,751-L,,baseline,10.666666666666666,861.0
+1084,m112 s4c1,120,SNL,stress,751-L,,baseline,18.666666666666668,862.0
+1085,m112 s4c1,140,SNL,stress,751-L,,baseline,25.333333333333332,863.0
+1086,m112 s4c1,160,SNL,stress,751-L,,baseline,31.333333333333332,864.0
+1087,m112 s4c1,180,SNL,stress,751-L,,baseline,38.0,865.0
+1088,m112 s4c1,200,SNL,stress,751-L,,baseline,41.333333333333336,866.0
+1089,m112 s4c2,0,SNL,stress,751-L,,baseline,0.0,951.6666666666666
+1090,m112 s4c2,20,SNL,stress,751-L,,baseline,0.0,952.6666666666666
+1091,m112 s4c2,40,SNL,stress,751-L,,baseline,0.0,953.6666666666666
+1092,m112 s4c2,60,SNL,stress,751-L,,baseline,0.0,954.6666666666666
+1093,m112 s4c2,80,SNL,stress,751-L,,baseline,0.0,955.6666666666666
+1094,m112 s4c2,100,SNL,stress,751-L,,baseline,0.0,956.6666666666666
+1095,m112 s4c2,120,SNL,stress,751-L,,baseline,2.6666666666666665,957.6666666666666
+1096,m112 s4c2,140,SNL,stress,751-L,,baseline,4.666666666666667,958.6666666666666
+1097,m112 s4c2,160,SNL,stress,751-L,,baseline,9.333333333333334,959.6666666666666
+1098,m112 s4c2,180,SNL,stress,751-L,,baseline,14.666666666666666,960.6666666666666
+1099,m112 s4c2,200,SNL,stress,751-L,,baseline,20.0,961.6666666666666
+1100,m113 s1c1,0,SNL,naive,757-L,,baseline,0.0,41.0
+1101,m113 s1c1,20,SNL,naive,757-L,,baseline,0.0,42.0
+1102,m113 s1c1,40,SNL,naive,757-L,,baseline,7.333333333333333,43.0
+1103,m113 s1c1,60,SNL,naive,757-L,,baseline,17.333333333333332,44.0
+1104,m113 s1c1,80,SNL,naive,757-L,,baseline,24.666666666666668,45.0
+1105,m113 s1c1,100,SNL,naive,757-L,,baseline,26.666666666666668,46.0
+1106,m113 s1c1,120,SNL,naive,757-L,,baseline,29.333333333333332,47.0
+1107,m113 s1c1,140,SNL,naive,757-L,,baseline,34.666666666666664,48.0
+1108,m113 s1c1,160,SNL,naive,757-L,,baseline,36.666666666666664,49.0
+1109,m113 s1c1,180,SNL,naive,757-L,,baseline,37.333333333333336,50.0
+1110,m113 s1c1,200,SNL,naive,757-L,,baseline,38.666666666666664,51.0
+1111,m113 s1c2,0,SNL,naive,757-L,,baseline,0.0,159.0
+1112,m113 s1c2,20,SNL,naive,757-L,,baseline,0.0,160.0
+1113,m113 s1c2,40,SNL,naive,757-L,,baseline,0.0,161.0
+1114,m113 s1c2,60,SNL,naive,757-L,,baseline,0.0,162.0
+1115,m113 s1c2,80,SNL,naive,757-L,,baseline,2.0,163.0
+1116,m113 s1c2,100,SNL,naive,757-L,,baseline,4.0,164.0
+1117,m113 s1c2,120,SNL,naive,757-L,,baseline,5.333333333333333,165.0
+1118,m113 s1c2,140,SNL,naive,757-L,,baseline,6.0,166.0
+1119,m113 s1c2,160,SNL,naive,757-L,,baseline,6.666666666666667,167.0
+1120,m113 s1c2,180,SNL,naive,757-L,,baseline,6.0,168.0
+1121,m113 s1c2,200,SNL,naive,757-L,,baseline,6.666666666666667,169.0
+1122,m113 s2c1,0,SNL,naive,757-L,,baseline,0.0,338.0
+1123,m113 s2c1,20,SNL,naive,757-L,,baseline,0.0,339.0
+1124,m113 s2c1,40,SNL,naive,757-L,,baseline,0.0,340.0
+1125,m113 s2c1,60,SNL,naive,757-L,,baseline,0.0,341.0
+1126,m113 s2c1,80,SNL,naive,757-L,,baseline,0.0,342.0
+1127,m113 s2c1,100,SNL,naive,757-L,,baseline,0.0,343.0
+1128,m113 s2c1,120,SNL,naive,757-L,,baseline,0.6666666666666666,344.0
+1129,m113 s2c1,140,SNL,naive,757-L,,baseline,6.666666666666667,345.0
+1130,m113 s2c1,160,SNL,naive,757-L,,baseline,11.333333333333334,346.0
+1131,m113 s2c1,180,SNL,naive,757-L,,baseline,14.666666666666666,347.0
+1132,m113 s2c1,200,SNL,naive,757-L,,baseline,16.666666666666668,348.0
+1133,m113 s2c2,0,SNL,naive,757-L,,baseline,0.0,434.0
+1134,m113 s2c2,20,SNL,naive,757-L,,baseline,0.0,435.0
+1135,m113 s2c2,40,SNL,naive,757-L,,baseline,0.0,436.0
+1136,m113 s2c2,60,SNL,naive,757-L,,baseline,0.0,437.0
+1137,m113 s2c2,80,SNL,naive,757-L,,baseline,0.0,438.0
+1138,m113 s2c2,100,SNL,naive,757-L,,baseline,0.0,439.0
+1139,m113 s2c2,120,SNL,naive,757-L,,baseline,0.0,440.0
+1140,m113 s2c2,140,SNL,naive,757-L,,baseline,2.0,441.0
+1141,m113 s2c2,160,SNL,naive,757-L,,baseline,6.0,442.0
+1142,m113 s2c2,180,SNL,naive,757-L,,baseline,9.333333333333334,443.0
+1143,m113 s2c2,200,SNL,naive,757-L,,baseline,13.333333333333334,444.0
+1144,m113 s3c1,0,SNL,naive,757-L,,baseline,0.0,510.0
+1145,m113 s3c1,20,SNL,naive,757-L,,baseline,0.0,511.0
+1146,m113 s3c1,40,SNL,naive,757-L,,baseline,3.3333333333333335,512.0
+1147,m113 s3c1,60,SNL,naive,757-L,,baseline,8.666666666666666,513.0
+1148,m113 s3c1,80,SNL,naive,757-L,,baseline,14.666666666666666,514.0
+1149,m113 s3c1,100,SNL,naive,757-L,,baseline,18.666666666666668,515.0
+1150,m113 s3c1,120,SNL,naive,757-L,,baseline,23.333333333333332,516.0
+1151,m113 s3c1,140,SNL,naive,757-L,,baseline,28.666666666666668,517.0
+1152,m113 s3c1,160,SNL,naive,757-L,,baseline,32.0,518.0
+1153,m113 s3c1,180,SNL,naive,757-L,,baseline,36.0,519.0
+1154,m113 s3c1,200,SNL,naive,757-L,,baseline,40.0,520.0
+1155,m113 s4c1,0,SNL,naive,757-L,,baseline,0.0,687.0
+1156,m113 s4c1,20,SNL,naive,757-L,,baseline,0.0,688.0
+1157,m113 s4c1,40,SNL,naive,757-L,,baseline,0.0,689.0
+1158,m113 s4c1,60,SNL,naive,757-L,,baseline,0.0,690.0
+1159,m113 s4c1,80,SNL,naive,757-L,,baseline,0.0,691.0
+1160,m113 s4c1,100,SNL,naive,757-L,,baseline,0.0,692.0
+1161,m113 s4c1,120,SNL,naive,757-L,,baseline,0.0,693.0
+1162,m113 s4c1,140,SNL,naive,757-L,,baseline,0.0,694.0
+1163,m113 s4c1,160,SNL,naive,757-L,,baseline,0.0,695.0
+1164,m113 s4c1,180,SNL,naive,757-L,,baseline,2.6666666666666665,696.0
+1165,m113 s4c1,200,SNL,naive,757-L,,baseline,10.0,697.0
+1166,m113 s4c2,0,SNL,naive,757-L,,baseline,0.0,802.6666666666666
+1167,m113 s4c2,20,SNL,naive,757-L,,baseline,0.0,803.6666666666666
+1168,m113 s4c2,40,SNL,naive,757-L,,baseline,0.0,804.6666666666666
+1169,m113 s4c2,60,SNL,naive,757-L,,baseline,0.0,805.6666666666666
+1170,m113 s4c2,80,SNL,naive,757-L,,baseline,3.3333333333333335,806.6666666666666
+1171,m113 s4c2,100,SNL,naive,757-L,,baseline,7.333333333333333,807.6666666666666
+1172,m113 s4c2,120,SNL,naive,757-L,,baseline,10.666666666666666,808.6666666666666
+1173,m113 s4c2,140,SNL,naive,757-L,,baseline,13.333333333333334,809.6666666666666
+1174,m113 s4c2,160,SNL,naive,757-L,,baseline,16.666666666666668,810.6666666666666
+1175,m113 s4c2,180,SNL,naive,757-L,,baseline,19.333333333333332,811.6666666666666
+1176,m113 s4c2,200,SNL,naive,757-L,,baseline,21.333333333333332,812.6666666666666
+1177,m114 s1c1,0,SNL,naive,758-L,,baseline,0.0,41.0
+1178,m114 s1c1,20,SNL,naive,758-L,,baseline,0.0,42.0
+1179,m114 s1c1,40,SNL,naive,758-L,,baseline,0.0,43.0
+1180,m114 s1c1,60,SNL,naive,758-L,,baseline,2.0,44.0
+1181,m114 s1c1,80,SNL,naive,758-L,,baseline,11.333333333333334,45.0
+1182,m114 s1c1,100,SNL,naive,758-L,,baseline,19.333333333333332,46.0
+1183,m114 s1c1,120,SNL,naive,758-L,,baseline,25.333333333333332,47.0
+1184,m114 s1c1,140,SNL,naive,758-L,,baseline,29.333333333333332,48.0
+1185,m114 s1c1,160,SNL,naive,758-L,,baseline,32.0,49.0
+1186,m114 s1c1,180,SNL,naive,758-L,,baseline,34.666666666666664,50.0
+1187,m114 s1c1,200,SNL,naive,758-L,,baseline,35.333333333333336,51.0
+1188,m114 s2c1,0,SNL,naive,758-L,,baseline,0.0,205.33333333333334
+1189,m114 s2c1,20,SNL,naive,758-L,,baseline,0.0,206.33333333333334
+1190,m114 s2c1,40,SNL,naive,758-L,,baseline,0.0,207.33333333333334
+1191,m114 s2c1,60,SNL,naive,758-L,,baseline,0.0,208.33333333333334
+1192,m114 s2c1,80,SNL,naive,758-L,,baseline,2.6666666666666665,209.33333333333334
+1193,m114 s2c1,100,SNL,naive,758-L,,baseline,12.0,210.33333333333334
+1194,m114 s2c1,120,SNL,naive,758-L,,baseline,20.0,211.33333333333334
+1195,m114 s2c1,140,SNL,naive,758-L,,baseline,24.666666666666668,212.33333333333334
+1196,m114 s2c1,160,SNL,naive,758-L,,baseline,28.666666666666668,213.33333333333334
+1197,m114 s2c1,180,SNL,naive,758-L,,baseline,32.0,214.33333333333334
+1198,m114 s2c1,200,SNL,naive,758-L,,baseline,34.0,215.33333333333334
+1199,m114 s2c3,0,SNL,naive,758-L,,baseline,0.0,478.0
+1200,m114 s2c3,20,SNL,naive,758-L,,baseline,0.6666666666666666,479.0
+1201,m114 s2c3,40,SNL,naive,758-L,,baseline,9.333333333333334,480.0
+1202,m114 s2c3,60,SNL,naive,758-L,,baseline,14.666666666666666,481.0
+1203,m114 s2c3,80,SNL,naive,758-L,,baseline,21.333333333333332,482.0
+1204,m114 s2c3,100,SNL,naive,758-L,,baseline,27.333333333333332,483.0
+1205,m114 s2c3,120,SNL,naive,758-L,,baseline,30.0,484.0
+1206,m114 s2c3,140,SNL,naive,758-L,,baseline,24.666666666666668,485.0
+1207,m114 s2c3,160,SNL,naive,758-L,,baseline,16.0,486.0
+1208,m114 s2c3,180,SNL,naive,758-L,,baseline,12.0,487.0
+1209,m114 s2c3,200,SNL,naive,758-L,,baseline,11.333333333333334,488.0
+1210,m114 s2c4,0,SNL,naive,758-L,,baseline,0.0,649.0
+1211,m114 s2c4,20,SNL,naive,758-L,,baseline,0.0,650.0
+1212,m114 s2c4,40,SNL,naive,758-L,,baseline,0.0,651.0
+1213,m114 s2c4,60,SNL,naive,758-L,,baseline,0.0,652.0
+1214,m114 s2c4,80,SNL,naive,758-L,,baseline,0.0,653.0
+1215,m114 s2c4,100,SNL,naive,758-L,,baseline,2.6666666666666665,654.0
+1216,m114 s2c4,120,SNL,naive,758-L,,baseline,8.0,655.0
+1217,m114 s2c4,140,SNL,naive,758-L,,baseline,12.0,656.0
+1218,m114 s2c4,160,SNL,naive,758-L,,baseline,16.666666666666668,657.0
+1219,m114 s2c4,180,SNL,naive,758-L,,baseline,22.0,658.0
+1220,m114 s2c4,200,SNL,naive,758-L,,baseline,26.0,659.0
+1221,m114 s2c5,0,SNL,naive,758-L,,baseline,0.0,769.0
+1222,m114 s2c5,20,SNL,naive,758-L,,baseline,0.0,770.0
+1223,m114 s2c5,40,SNL,naive,758-L,,baseline,0.0,771.0
+1224,m114 s2c5,60,SNL,naive,758-L,,baseline,2.0,772.0
+1225,m114 s2c5,80,SNL,naive,758-L,,baseline,6.0,773.0
+1226,m114 s2c5,100,SNL,naive,758-L,,baseline,12.0,774.0
+1227,m114 s2c5,120,SNL,naive,758-L,,baseline,16.666666666666668,775.0
+1228,m114 s2c5,140,SNL,naive,758-L,,baseline,21.333333333333332,776.0
+1229,m114 s2c5,160,SNL,naive,758-L,,baseline,24.666666666666668,777.0
+1230,m114 s2c5,180,SNL,naive,758-L,,baseline,28.0,778.0
+1231,m114 s2c5,200,SNL,naive,758-L,,baseline,30.666666666666668,779.0
+1232,m114 s2c6,0,SNL,naive,758-L,,baseline,0.0,914.3333333333334
+1233,m114 s2c6,20,SNL,naive,758-L,,baseline,0.0,915.3333333333334
+1234,m114 s2c6,40,SNL,naive,758-L,,baseline,0.0,916.3333333333334
+1235,m114 s2c6,60,SNL,naive,758-L,,baseline,0.0,917.3333333333334
+1236,m114 s2c6,80,SNL,naive,758-L,,baseline,4.666666666666667,918.3333333333334
+1237,m114 s2c6,100,SNL,naive,758-L,,baseline,11.333333333333334,919.3333333333334
+1238,m114 s2c6,120,SNL,naive,758-L,,baseline,17.333333333333332,920.3333333333334
+1239,m114 s2c6,140,SNL,naive,758-L,,baseline,18.0,921.3333333333334
+1240,m114 s2c6,160,SNL,naive,758-L,,baseline,20.666666666666668,922.3333333333334
+1241,m114 s2c6,180,SNL,naive,758-L,,baseline,24.666666666666668,923.3333333333334
+1242,m114 s2c6,200,SNL,naive,758-L,,baseline,25.333333333333332,924.3333333333334
+1243,m201 s1c1,0,TS,naive,755-L,,baseline,0.0,75.0
+1244,m201 s1c1,20,TS,naive,755-L,,baseline,1.0,76.0
+1245,m201 s1c1,40,TS,naive,755-L,,baseline,2.0,77.0
+1246,m201 s1c1,60,TS,naive,755-L,,baseline,2.3333333333333335,78.0
+1247,m201 s1c1,80,TS,naive,755-L,,baseline,2.6666666666666665,79.0
+1248,m201 s1c1,100,TS,naive,755-L,,baseline,3.3333333333333335,80.0
+1249,m201 s1c1,120,TS,naive,755-L,,baseline,5.0,81.0
+1250,m201 s1c1,140,TS,naive,755-L,,baseline,5.0,82.0
+1251,m201 s1c1,160,TS,naive,755-L,,baseline,5.666666666666667,83.0
+1252,m201 s1c1,180,TS,naive,755-L,,baseline,7.666666666666667,84.0
+1253,m201 s1c1,200,TS,naive,755-L,,baseline,8.0,85.0
+1254,m201 s2c1,0,TS,naive,755-L,,baseline,0.6666666666666666,177.0
+1255,m201 s2c1,20,TS,naive,755-L,,baseline,8.0,178.0
+1256,m201 s2c1,40,TS,naive,755-L,,baseline,9.333333333333334,179.0
+1257,m201 s2c1,60,TS,naive,755-L,,baseline,10.0,180.0
+1258,m201 s2c1,80,TS,naive,755-L,,baseline,12.0,181.0
+1259,m201 s2c1,100,TS,naive,755-L,,baseline,14.0,182.0
+1260,m201 s2c1,120,TS,naive,755-L,,baseline,14.666666666666666,183.0
+1261,m201 s2c1,140,TS,naive,755-L,,baseline,16.0,184.0
+1262,m201 s2c1,160,TS,naive,755-L,,baseline,16.0,185.0
+1263,m201 s2c1,180,TS,naive,755-L,,baseline,16.0,186.0
+1264,m201 s2c1,200,TS,naive,755-L,,baseline,13.333333333333334,187.0
+1265,m201 s2c2,0,TS,naive,755-L,,baseline,0.0,297.5
+1266,m201 s2c2,20,TS,naive,755-L,,baseline,0.0,298.5
+1267,m201 s2c2,40,TS,naive,755-L,,baseline,0.5,299.5
+1268,m201 s2c2,60,TS,naive,755-L,,baseline,7.0,300.5
+1269,m201 s2c2,80,TS,naive,755-L,,baseline,11.0,301.5
+1270,m201 s2c2,100,TS,naive,755-L,,baseline,18.0,302.5
+1271,m201 s2c2,120,TS,naive,755-L,,baseline,25.5,303.5
+1272,m201 s2c2,140,TS,naive,755-L,,baseline,30.0,304.5
+1273,m201 s2c2,160,TS,naive,755-L,,baseline,34.0,305.5
+1274,m201 s2c2,180,TS,naive,755-L,,baseline,33.5,306.5
+1275,m201 s2c2,200,TS,naive,755-L,,baseline,41.5,307.5
+1276,m201 s2c3,0,TS,naive,755-L,,baseline,4.4,500.0
+1277,m201 s2c3,20,TS,naive,755-L,,baseline,5.6,501.0
+1278,m201 s2c3,40,TS,naive,755-L,,baseline,8.4,502.0
+1279,m201 s2c3,60,TS,naive,755-L,,baseline,10.0,503.0
+1280,m201 s2c3,80,TS,naive,755-L,,baseline,12.8,504.0
+1281,m201 s2c3,100,TS,naive,755-L,,baseline,14.0,505.0
+1282,m201 s2c3,120,TS,naive,755-L,,baseline,15.2,506.0
+1283,m201 s2c3,140,TS,naive,755-L,,baseline,16.0,507.0
+1284,m201 s2c3,160,TS,naive,755-L,,baseline,16.8,508.0
+1285,m201 s2c3,180,TS,naive,755-L,,baseline,18.4,509.0
+1286,m201 s2c3,200,TS,naive,755-L,,baseline,18.0,510.0
+1287,m202 s1c1,0,TS,naive,755-0,,baseline,6.666666666666667,41.0
+1288,m202 s1c1,20,TS,naive,755-0,,baseline,9.333333333333334,42.0
+1289,m202 s1c1,40,TS,naive,755-0,,baseline,16.666666666666668,43.0
+1290,m202 s1c1,60,TS,naive,755-0,,baseline,19.333333333333332,44.0
+1291,m202 s1c1,80,TS,naive,755-0,,baseline,22.666666666666668,45.0
+1292,m202 s1c1,100,TS,naive,755-0,,baseline,24.666666666666668,46.0
+1293,m202 s1c1,120,TS,naive,755-0,,baseline,26.666666666666668,47.0
+1294,m202 s1c1,140,TS,naive,755-0,,baseline,28.0,48.0
+1295,m202 s1c1,160,TS,naive,755-0,,baseline,30.666666666666668,49.0
+1296,m202 s1c1,180,TS,naive,755-0,,baseline,32.0,50.0
+1297,m202 s1c1,200,TS,naive,755-0,,baseline,32.666666666666664,51.0
+1298,m202 s1c2,0,TS,naive,755-0,,baseline,6.0,159.66666666666666
+1299,m202 s1c2,20,TS,naive,755-0,,baseline,6.666666666666667,160.66666666666666
+1300,m202 s1c2,40,TS,naive,755-0,,baseline,7.333333333333333,161.66666666666666
+1301,m202 s1c2,60,TS,naive,755-0,,baseline,7.333333333333333,162.66666666666666
+1302,m202 s1c2,80,TS,naive,755-0,,baseline,7.333333333333333,163.66666666666666
+1303,m202 s1c2,100,TS,naive,755-0,,baseline,8.666666666666666,164.66666666666666
+1304,m202 s1c2,120,TS,naive,755-0,,baseline,9.333333333333334,165.66666666666666
+1305,m202 s1c2,140,TS,naive,755-0,,baseline,10.0,166.66666666666666
+1306,m202 s1c2,160,TS,naive,755-0,,baseline,11.333333333333334,167.66666666666666
+1307,m202 s1c2,180,TS,naive,755-0,,baseline,11.333333333333334,168.66666666666666
+1308,m202 s1c2,200,TS,naive,755-0,,baseline,12.0,169.66666666666666
+1309,m202 s1c3,0,TS,naive,755-0,,baseline,4.0,281.0
+1310,m202 s1c3,20,TS,naive,755-0,,baseline,11.333333333333334,282.0
+1311,m202 s1c3,40,TS,naive,755-0,,baseline,9.333333333333334,283.0
+1312,m202 s1c3,60,TS,naive,755-0,,baseline,11.333333333333334,284.0
+1313,m202 s1c3,80,TS,naive,755-0,,baseline,15.333333333333334,285.0
+1314,m202 s1c3,100,TS,naive,755-0,,baseline,16.0,286.0
+1315,m202 s1c3,120,TS,naive,755-0,,baseline,16.0,287.0
+1316,m202 s1c3,140,TS,naive,755-0,,baseline,18.0,288.0
+1317,m202 s1c3,160,TS,naive,755-0,,baseline,18.0,289.0
+1318,m202 s1c3,180,TS,naive,755-0,,baseline,18.0,290.0
+1319,m202 s1c3,200,TS,naive,755-0,,baseline,19.333333333333332,291.0
+1320,m202 s1c4,0,TS,naive,755-0,,baseline,2.6666666666666665,406.0
+1321,m202 s1c4,20,TS,naive,755-0,,baseline,7.333333333333333,407.0
+1322,m202 s1c4,40,TS,naive,755-0,,baseline,11.333333333333334,408.0
+1323,m202 s1c4,60,TS,naive,755-0,,baseline,13.333333333333334,409.0
+1324,m202 s1c4,80,TS,naive,755-0,,baseline,16.0,410.0
+1325,m202 s1c4,100,TS,naive,755-0,,baseline,17.333333333333332,411.0
+1326,m202 s1c4,120,TS,naive,755-0,,baseline,21.333333333333332,412.0
+1327,m202 s1c4,140,TS,naive,755-0,,baseline,23.333333333333332,413.0
+1328,m202 s1c4,160,TS,naive,755-0,,baseline,24.0,414.0
+1329,m202 s1c4,180,TS,naive,755-0,,baseline,25.333333333333332,415.0
+1330,m202 s1c4,200,TS,naive,755-0,,baseline,26.666666666666668,416.0
+1331,m202 s2c1,0,TS,naive,755-0,,baseline,7.333333333333333,518.3333333333334
+1332,m202 s2c1,20,TS,naive,755-0,,baseline,16.666666666666668,519.3333333333334
+1333,m202 s2c1,40,TS,naive,755-0,,baseline,19.333333333333332,520.3333333333334
+1334,m202 s2c1,60,TS,naive,755-0,,baseline,20.0,521.3333333333334
+1335,m202 s2c1,80,TS,naive,755-0,,baseline,22.0,522.3333333333334
+1336,m202 s2c1,100,TS,naive,755-0,,baseline,24.0,523.3333333333334
+1337,m202 s2c1,120,TS,naive,755-0,,baseline,26.0,524.3333333333334
+1338,m202 s2c1,140,TS,naive,755-0,,baseline,27.333333333333332,525.3333333333334
+1339,m202 s2c1,160,TS,naive,755-0,,baseline,28.666666666666668,526.3333333333334
+1340,m202 s2c1,180,TS,naive,755-0,,baseline,26.666666666666668,527.3333333333334
+1341,m202 s2c1,200,TS,naive,755-0,,baseline,22.666666666666668,528.3333333333334
+1342,m202 s2c2,0,TS,naive,755-0,,baseline,6.0,635.0
+1343,m202 s2c2,20,TS,naive,755-0,,baseline,14.666666666666666,636.0
+1344,m202 s2c2,40,TS,naive,755-0,,baseline,14.0,637.0
+1345,m202 s2c2,60,TS,naive,755-0,,baseline,14.0,638.0
+1346,m202 s2c2,80,TS,naive,755-0,,baseline,10.666666666666666,639.0
+1347,m202 s2c2,100,TS,naive,755-0,,baseline,11.333333333333334,640.0
+1348,m202 s2c2,120,TS,naive,755-0,,baseline,10.0,641.0
+1349,m202 s2c2,140,TS,naive,755-0,,baseline,7.333333333333333,642.0
+1350,m202 s2c2,160,TS,naive,755-0,,baseline,8.0,643.0
+1351,m202 s2c2,180,TS,naive,755-0,,baseline,6.666666666666667,644.0
+1352,m202 s2c2,200,TS,naive,755-0,,baseline,4.0,645.0
+1353,m202 s2c3,0,TS,naive,755-0,,baseline,18.0,735.0
+1354,m202 s2c3,20,TS,naive,755-0,,baseline,20.0,736.0
+1355,m202 s2c3,40,TS,naive,755-0,,baseline,28.0,737.0
+1356,m202 s2c3,60,TS,naive,755-0,,baseline,41.0,738.0
+1357,m202 s2c3,80,TS,naive,755-0,,baseline,30.0,739.0
+1358,m202 s2c3,100,TS,naive,755-0,,baseline,34.0,740.0
+1359,m202 s2c3,120,TS,naive,755-0,,baseline,35.0,741.0
+1360,m202 s2c3,140,TS,naive,755-0,,baseline,35.0,742.0
+1361,m202 s2c3,160,TS,naive,755-0,,baseline,27.0,743.0
+1362,m202 s2c3,180,TS,naive,755-0,,baseline,31.0,744.0
+1363,m202 s2c3,200,TS,naive,755-0,,baseline,31.0,745.0
+1364,m203 s1c1,0,TS,naive,756-0,,baseline,2.6666666666666665,44.0
+1365,m203 s1c1,20,TS,naive,756-0,,baseline,6.666666666666667,45.0
+1366,m203 s1c1,40,TS,naive,756-0,,baseline,12.0,46.0
+1367,m203 s1c1,60,TS,naive,756-0,,baseline,14.0,47.0
+1368,m203 s1c1,80,TS,naive,756-0,,baseline,18.666666666666668,48.0
+1369,m203 s1c1,100,TS,naive,756-0,,baseline,18.666666666666668,49.0
+1370,m203 s1c1,120,TS,naive,756-0,,baseline,20.0,50.0
+1371,m203 s1c1,140,TS,naive,756-0,,baseline,20.666666666666668,51.0
+1372,m203 s1c1,160,TS,naive,756-0,,baseline,18.666666666666668,52.0
+1373,m203 s1c1,180,TS,naive,756-0,,baseline,18.666666666666668,53.0
+1374,m203 s1c1,200,TS,naive,756-0,,baseline,18.666666666666668,54.0
+1375,m203 s2c1,0,TS,naive,756-0,,baseline,10.666666666666666,169.0
+1376,m203 s2c1,20,TS,naive,756-0,,baseline,10.666666666666666,170.0
+1377,m203 s2c1,40,TS,naive,756-0,,baseline,12.0,171.0
+1378,m203 s2c1,60,TS,naive,756-0,,baseline,11.333333333333334,172.0
+1379,m203 s2c1,80,TS,naive,756-0,,baseline,14.0,173.0
+1380,m203 s2c1,100,TS,naive,756-0,,baseline,14.666666666666666,174.0
+1381,m203 s2c1,120,TS,naive,756-0,,baseline,16.666666666666668,175.0
+1382,m203 s2c1,140,TS,naive,756-0,,baseline,18.0,176.0
+1383,m203 s2c1,160,TS,naive,756-0,,baseline,16.666666666666668,177.0
+1384,m203 s2c1,180,TS,naive,756-0,,baseline,14.666666666666666,178.0
+1385,m203 s2c1,200,TS,naive,756-0,,baseline,13.333333333333334,179.0
+1386,m203 s2c4,0,TS,naive,756-0,,baseline,7.333333333333333,300.0
+1387,m203 s2c4,20,TS,naive,756-0,,baseline,9.333333333333334,301.0
+1388,m203 s2c4,40,TS,naive,756-0,,baseline,17.333333333333332,302.0
+1389,m203 s2c4,60,TS,naive,756-0,,baseline,24.0,303.0
+1390,m203 s2c4,80,TS,naive,756-0,,baseline,28.0,304.0
+1391,m203 s2c4,100,TS,naive,756-0,,baseline,31.333333333333332,305.0
+1392,m203 s2c4,120,TS,naive,756-0,,baseline,32.0,306.0
+1393,m203 s2c4,140,TS,naive,756-0,,baseline,34.0,307.0
+1394,m203 s2c4,160,TS,naive,756-0,,baseline,32.0,308.0
+1395,m203 s2c4,180,TS,naive,756-0,,baseline,34.666666666666664,309.0
+1396,m203 s2c4,200,TS,naive,756-0,,baseline,32.0,310.0
+1397,m203 s3c1,0,TS,naive,756-0,,baseline,0.0,438.3333333333333
+1398,m203 s3c1,20,TS,naive,756-0,,baseline,0.6666666666666666,439.3333333333333
+1399,m203 s3c1,40,TS,naive,756-0,,baseline,2.0,440.3333333333333
+1400,m203 s3c1,60,TS,naive,756-0,,baseline,2.6666666666666665,441.3333333333333
+1401,m203 s3c1,80,TS,naive,756-0,,baseline,3.3333333333333335,442.3333333333333
+1402,m203 s3c1,100,TS,naive,756-0,,baseline,4.666666666666667,443.3333333333333
+1403,m203 s3c1,120,TS,naive,756-0,,baseline,5.333333333333333,444.3333333333333
+1404,m203 s3c1,140,TS,naive,756-0,,baseline,5.333333333333333,445.3333333333333
+1405,m203 s3c1,160,TS,naive,756-0,,baseline,6.666666666666667,446.3333333333333
+1406,m203 s3c1,180,TS,naive,756-0,,baseline,6.0,447.3333333333333
+1407,m203 s3c1,200,TS,naive,756-0,,baseline,5.333333333333333,448.3333333333333
+1408,m203 s3c2,0,TS,naive,756-0,,baseline,0.0,535.0
+1409,m203 s3c2,20,TS,naive,756-0,,baseline,2.0,536.0
+1410,m203 s3c2,40,TS,naive,756-0,,baseline,2.0,537.0
+1411,m203 s3c2,60,TS,naive,756-0,,baseline,3.3333333333333335,538.0
+1412,m203 s3c2,80,TS,naive,756-0,,baseline,4.0,539.0
+1413,m203 s3c2,100,TS,naive,756-0,,baseline,4.666666666666667,540.0
+1414,m203 s3c2,120,TS,naive,756-0,,baseline,6.0,541.0
+1415,m203 s3c2,140,TS,naive,756-0,,baseline,7.333333333333333,542.0
+1416,m203 s3c2,160,TS,naive,756-0,,baseline,8.0,543.0
+1417,m203 s3c2,180,TS,naive,756-0,,baseline,8.666666666666666,544.0
+1418,m203 s3c2,200,TS,naive,756-0,,baseline,10.0,545.0
+1419,m204 s2c1,0,TS,stress,752-0,,baseline,14.0,36.0
+1420,m204 s2c1,20,TS,stress,752-0,,baseline,12.666666666666666,37.0
+1421,m204 s2c1,40,TS,stress,752-0,,baseline,15.333333333333334,38.0
+1422,m204 s2c1,60,TS,stress,752-0,,baseline,15.333333333333334,39.0
+1423,m204 s2c1,80,TS,stress,752-0,,baseline,18.0,40.0
+1424,m204 s2c1,100,TS,stress,752-0,,baseline,18.0,41.0
+1425,m204 s2c1,120,TS,stress,752-0,,baseline,16.0,42.0
+1426,m204 s2c1,140,TS,stress,752-0,,baseline,18.0,43.0
+1427,m204 s2c1,160,TS,stress,752-0,,baseline,12.666666666666666,44.0
+1428,m204 s2c1,180,TS,stress,752-0,,baseline,13.333333333333334,45.0
+1429,m204 s2c1,200,TS,stress,752-0,,baseline,10.666666666666666,46.0
+1430,m204 s2c2,0,TS,stress,752-0,,baseline,6.666666666666667,91.0
+1431,m204 s2c2,20,TS,stress,752-0,,baseline,10.666666666666666,92.0
+1432,m204 s2c2,40,TS,stress,752-0,,baseline,14.666666666666666,93.0
+1433,m204 s2c2,60,TS,stress,752-0,,baseline,17.333333333333332,94.0
+1434,m204 s2c2,80,TS,stress,752-0,,baseline,19.333333333333332,95.0
+1435,m204 s2c2,100,TS,stress,752-0,,baseline,18.666666666666668,96.0
+1436,m204 s2c2,120,TS,stress,752-0,,baseline,16.666666666666668,97.0
+1437,m204 s2c2,140,TS,stress,752-0,,baseline,18.0,98.0
+1438,m204 s2c2,160,TS,stress,752-0,,baseline,16.666666666666668,99.0
+1439,m204 s2c2,180,TS,stress,752-0,,baseline,14.666666666666666,100.0
+1440,m204 s2c2,200,TS,stress,752-0,,baseline,14.0,101.0
+1441,m204 s2c3,0,TS,stress,752-0,,baseline,4.666666666666667,146.0
+1442,m204 s2c3,20,TS,stress,752-0,,baseline,9.333333333333334,147.0
+1443,m204 s2c3,40,TS,stress,752-0,,baseline,14.666666666666666,148.0
+1444,m204 s2c3,60,TS,stress,752-0,,baseline,18.0,149.0
+1445,m204 s2c3,80,TS,stress,752-0,,baseline,19.333333333333332,150.0
+1446,m204 s2c3,100,TS,stress,752-0,,baseline,22.666666666666668,151.0
+1447,m204 s2c3,120,TS,stress,752-0,,baseline,23.333333333333332,152.0
+1448,m204 s2c3,140,TS,stress,752-0,,baseline,25.333333333333332,153.0
+1449,m204 s2c3,160,TS,stress,752-0,,baseline,25.333333333333332,154.0
+1450,m204 s2c3,180,TS,stress,752-0,,baseline,28.0,155.0
+1451,m204 s2c3,200,TS,stress,752-0,,baseline,28.666666666666668,156.0
+1452,m204 s3c1,0,TS,stress,752-0,,baseline,6.0,201.0
+1453,m204 s3c1,20,TS,stress,752-0,,baseline,12.666666666666666,202.0
+1454,m204 s3c1,40,TS,stress,752-0,,baseline,16.0,203.0
+1455,m204 s3c1,60,TS,stress,752-0,,baseline,16.0,204.0
+1456,m204 s3c1,80,TS,stress,752-0,,baseline,19.333333333333332,205.0
+1457,m204 s3c1,100,TS,stress,752-0,,baseline,18.0,206.0
+1458,m204 s3c1,120,TS,stress,752-0,,baseline,14.666666666666666,207.0
+1459,m204 s3c1,140,TS,stress,752-0,,baseline,17.333333333333332,208.0
+1460,m204 s3c1,160,TS,stress,752-0,,baseline,15.333333333333334,209.0
+1461,m204 s3c1,180,TS,stress,752-0,,baseline,14.0,210.0
+1462,m204 s3c1,200,TS,stress,752-0,,baseline,12.666666666666666,211.0
+1463,m204 s4c1,0,TS,stress,752-0,,baseline,1.3333333333333333,256.0
+1464,m204 s4c1,20,TS,stress,752-0,,baseline,9.333333333333334,257.0
+1465,m204 s4c1,40,TS,stress,752-0,,baseline,13.333333333333334,258.0
+1466,m204 s4c1,60,TS,stress,752-0,,baseline,14.0,259.0
+1467,m204 s4c1,80,TS,stress,752-0,,baseline,18.0,260.0
+1468,m204 s4c1,100,TS,stress,752-0,,baseline,17.333333333333332,261.0
+1469,m204 s4c1,120,TS,stress,752-0,,baseline,18.0,262.0
+1470,m204 s4c1,140,TS,stress,752-0,,baseline,18.666666666666668,263.0
+1471,m204 s4c1,160,TS,stress,752-0,,baseline,18.0,264.0
+1472,m204 s4c1,180,TS,stress,752-0,,baseline,15.333333333333334,265.0
+1473,m204 s4c1,200,TS,stress,752-0,,baseline,14.666666666666666,266.0
+1474,m205 s1c1,0,TS,stress,752-L,,baseline,0.0,20.0
+1475,m205 s1c1,20,TS,stress,752-L,,baseline,1.3333333333333333,21.0
+1476,m205 s1c1,40,TS,stress,752-L,,baseline,2.6666666666666665,22.0
+1477,m205 s1c1,60,TS,stress,752-L,,baseline,4.0,23.0
+1478,m205 s1c1,80,TS,stress,752-L,,baseline,5.333333333333333,24.0
+1479,m205 s1c1,100,TS,stress,752-L,,baseline,6.666666666666667,25.0
+1480,m205 s1c1,120,TS,stress,752-L,,baseline,8.666666666666666,26.0
+1481,m205 s1c1,140,TS,stress,752-L,,baseline,10.0,27.0
+1482,m205 s1c1,160,TS,stress,752-L,,baseline,10.666666666666666,28.0
+1483,m205 s1c1,180,TS,stress,752-L,,baseline,12.0,29.0
+1484,m205 s1c1,200,TS,stress,752-L,,baseline,12.666666666666666,30.0
+1485,m205 s2c1,0,TS,stress,752-L,,baseline,10.0,83.5
+1486,m205 s2c1,20,TS,stress,752-L,,baseline,13.5,84.5
+1487,m205 s2c1,40,TS,stress,752-L,,baseline,12.0,85.5
+1488,m205 s2c1,60,TS,stress,752-L,,baseline,14.5,86.5
+1489,m205 s2c1,80,TS,stress,752-L,,baseline,17.0,87.5
+1490,m205 s2c1,100,TS,stress,752-L,,baseline,20.0,88.5
+1491,m205 s2c1,120,TS,stress,752-L,,baseline,21.0,89.5
+1492,m205 s2c1,140,TS,stress,752-L,,baseline,22.0,90.5
+1493,m205 s2c1,160,TS,stress,752-L,,baseline,22.0,91.5
+1494,m205 s2c1,180,TS,stress,752-L,,baseline,23.5,92.5
+1495,m205 s2c1,200,TS,stress,752-L,,baseline,21.0,93.5
+1496,m205 s2c2,0,TS,stress,752-L,,baseline,13.333333333333334,142.0
+1497,m205 s2c2,20,TS,stress,752-L,,baseline,15.333333333333334,143.0
+1498,m205 s2c2,40,TS,stress,752-L,,baseline,18.0,144.0
+1499,m205 s2c2,60,TS,stress,752-L,,baseline,20.0,145.0
+1500,m205 s2c2,80,TS,stress,752-L,,baseline,22.666666666666668,146.0
+1501,m205 s2c2,100,TS,stress,752-L,,baseline,23.333333333333332,147.0
+1502,m205 s2c2,120,TS,stress,752-L,,baseline,25.333333333333332,148.0
+1503,m205 s2c2,140,TS,stress,752-L,,baseline,27.333333333333332,149.0
+1504,m205 s2c2,160,TS,stress,752-L,,baseline,30.666666666666668,150.0
+1505,m205 s2c2,180,TS,stress,752-L,,baseline,31.333333333333332,151.0
+1506,m205 s2c2,200,TS,stress,752-L,,baseline,32.0,152.0
+1507,m205 s2c3,0,TS,stress,752-L,,baseline,0.0,214.33333333333334
+1508,m205 s2c3,20,TS,stress,752-L,,baseline,2.0,215.33333333333334
+1509,m205 s2c3,40,TS,stress,752-L,,baseline,3.3333333333333335,216.33333333333334
+1510,m205 s2c3,60,TS,stress,752-L,,baseline,4.666666666666667,217.33333333333334
+1511,m205 s2c3,80,TS,stress,752-L,,baseline,6.666666666666667,218.33333333333334
+1512,m205 s2c3,100,TS,stress,752-L,,baseline,7.333333333333333,219.33333333333334
+1513,m205 s2c3,120,TS,stress,752-L,,baseline,7.333333333333333,220.33333333333334
+1514,m205 s2c3,140,TS,stress,752-L,,baseline,7.333333333333333,221.33333333333334
+1515,m205 s2c3,160,TS,stress,752-L,,baseline,6.666666666666667,222.33333333333334
+1516,m205 s2c3,180,TS,stress,752-L,,baseline,8.666666666666666,223.33333333333334
+1517,m205 s2c3,200,TS,stress,752-L,,baseline,10.0,224.33333333333334
+1518,m205 s2c4,0,TS,stress,752-L,,baseline,0.6666666666666666,268.0
+1519,m205 s2c4,20,TS,stress,752-L,,baseline,9.333333333333334,269.0
+1520,m205 s2c4,40,TS,stress,752-L,,baseline,16.0,270.0
+1521,m205 s2c4,60,TS,stress,752-L,,baseline,15.333333333333334,271.0
+1522,m205 s2c4,80,TS,stress,752-L,,baseline,16.666666666666668,272.0
+1523,m205 s2c4,100,TS,stress,752-L,,baseline,13.333333333333334,273.0
+1524,m205 s2c4,120,TS,stress,752-L,,baseline,13.333333333333334,274.0
+1525,m205 s2c4,140,TS,stress,752-L,,baseline,12.0,275.0
+1526,m205 s2c4,160,TS,stress,752-L,,baseline,12.0,276.0
+1527,m205 s2c4,180,TS,stress,752-L,,baseline,10.0,277.0
+1528,m205 s2c4,200,TS,stress,752-L,,baseline,8.666666666666666,278.0
+1529,m205 s2c5,0,TS,stress,752-L,,baseline,10.0,323.0
+1530,m205 s2c5,20,TS,stress,752-L,,baseline,12.0,324.0
+1531,m205 s2c5,40,TS,stress,752-L,,baseline,12.666666666666666,325.0
+1532,m205 s2c5,60,TS,stress,752-L,,baseline,12.666666666666666,326.0
+1533,m205 s2c5,80,TS,stress,752-L,,baseline,13.333333333333334,327.0
+1534,m205 s2c5,100,TS,stress,752-L,,baseline,14.666666666666666,328.0
+1535,m205 s2c5,120,TS,stress,752-L,,baseline,15.333333333333334,329.0
+1536,m205 s2c5,140,TS,stress,752-L,,baseline,15.333333333333334,330.0
+1537,m205 s2c5,160,TS,stress,752-L,,baseline,17.333333333333332,331.0
+1538,m205 s2c5,180,TS,stress,752-L,,baseline,18.0,332.0
+1539,m205 s2c5,200,TS,stress,752-L,,baseline,18.0,333.0
+1540,m205 s2c6,0,TS,stress,752-L,,baseline,0.0,379.0
+1541,m205 s2c6,20,TS,stress,752-L,,baseline,14.0,380.0
+1542,m205 s2c6,40,TS,stress,752-L,,baseline,16.666666666666668,381.0
+1543,m205 s2c6,60,TS,stress,752-L,,baseline,16.666666666666668,382.0
+1544,m205 s2c6,80,TS,stress,752-L,,baseline,11.333333333333334,383.0
+1545,m205 s2c6,100,TS,stress,752-L,,baseline,12.0,384.0
+1546,m205 s2c6,120,TS,stress,752-L,,baseline,11.333333333333334,385.0
+1547,m205 s2c6,140,TS,stress,752-L,,baseline,10.0,386.0
+1548,m205 s2c6,160,TS,stress,752-L,,baseline,10.666666666666666,387.0
+1549,m205 s2c6,180,TS,stress,752-L,,baseline,9.333333333333334,388.0
+1550,m205 s2c6,200,TS,stress,752-L,,baseline,10.0,389.0
+1551,m206 s1c1,0,TS,stress,751-RL,,baseline,0.6666666666666666,20.0
+1552,m206 s1c1,20,TS,stress,751-RL,,baseline,3.3333333333333335,21.0
+1553,m206 s1c1,40,TS,stress,751-RL,,baseline,4.666666666666667,22.0
+1554,m206 s1c1,60,TS,stress,751-RL,,baseline,6.0,23.0
+1555,m206 s1c1,80,TS,stress,751-RL,,baseline,7.333333333333333,24.0
+1556,m206 s1c1,100,TS,stress,751-RL,,baseline,8.666666666666666,25.0
+1557,m206 s1c1,120,TS,stress,751-RL,,baseline,10.0,26.0
+1558,m206 s1c1,140,TS,stress,751-RL,,baseline,10.666666666666666,27.0
+1559,m206 s1c1,160,TS,stress,751-RL,,baseline,12.666666666666666,28.0
+1560,m206 s1c1,180,TS,stress,751-RL,,baseline,12.666666666666666,29.0
+1561,m206 s1c1,200,TS,stress,751-RL,,baseline,14.0,30.0
+1562,m206 s2c1,0,TS,stress,751-RL,,baseline,7.333333333333333,89.0
+1563,m206 s2c1,20,TS,stress,751-RL,,baseline,8.0,90.0
+1564,m206 s2c1,40,TS,stress,751-RL,,baseline,10.0,91.0
+1565,m206 s2c1,60,TS,stress,751-RL,,baseline,10.666666666666666,92.0
+1566,m206 s2c1,80,TS,stress,751-RL,,baseline,11.333333333333334,93.0
+1567,m206 s2c1,100,TS,stress,751-RL,,baseline,12.0,94.0
+1568,m206 s2c1,120,TS,stress,751-RL,,baseline,14.0,95.0
+1569,m206 s2c1,140,TS,stress,751-RL,,baseline,16.0,96.0
+1570,m206 s2c1,160,TS,stress,751-RL,,baseline,17.333333333333332,97.0
+1571,m206 s2c1,180,TS,stress,751-RL,,baseline,19.333333333333332,98.0
+1572,m206 s2c1,200,TS,stress,751-RL,,baseline,20.666666666666668,99.0
+1573,m206 s2c2,0,TS,stress,751-RL,,baseline,4.0,144.0
+1574,m206 s2c2,20,TS,stress,751-RL,,baseline,12.666666666666666,145.0
+1575,m206 s2c2,40,TS,stress,751-RL,,baseline,10.666666666666666,146.0
+1576,m206 s2c2,60,TS,stress,751-RL,,baseline,16.0,147.0
+1577,m206 s2c2,80,TS,stress,751-RL,,baseline,14.0,148.0
+1578,m206 s2c2,100,TS,stress,751-RL,,baseline,16.0,149.0
+1579,m206 s2c2,120,TS,stress,751-RL,,baseline,18.666666666666668,150.0
+1580,m206 s2c2,140,TS,stress,751-RL,,baseline,20.666666666666668,151.0
+1581,m206 s2c2,160,TS,stress,751-RL,,baseline,18.666666666666668,152.0
+1582,m206 s2c2,180,TS,stress,751-RL,,baseline,19.333333333333332,153.0
+1583,m206 s2c2,200,TS,stress,751-RL,,baseline,21.333333333333332,154.0
+1584,m206 s2c3,0,TS,stress,751-RL,,baseline,4.666666666666667,199.0
+1585,m206 s2c3,20,TS,stress,751-RL,,baseline,6.666666666666667,200.0
+1586,m206 s2c3,40,TS,stress,751-RL,,baseline,7.333333333333333,201.0
+1587,m206 s2c3,60,TS,stress,751-RL,,baseline,7.333333333333333,202.0
+1588,m206 s2c3,80,TS,stress,751-RL,,baseline,8.666666666666666,203.0
+1589,m206 s2c3,100,TS,stress,751-RL,,baseline,10.666666666666666,204.0
+1590,m206 s2c3,120,TS,stress,751-RL,,baseline,9.333333333333334,205.0
+1591,m206 s2c3,140,TS,stress,751-RL,,baseline,10.666666666666666,206.0
+1592,m206 s2c3,160,TS,stress,751-RL,,baseline,12.0,207.0
+1593,m206 s2c3,180,TS,stress,751-RL,,baseline,12.666666666666666,208.0
+1594,m206 s2c3,200,TS,stress,751-RL,,baseline,14.0,209.0
+1595,m207 s1c2,0,TS,stress,751-0,,baseline,4.666666666666667,75.0
+1596,m207 s1c2,20,TS,stress,751-0,,baseline,6.0,76.0
+1597,m207 s1c2,40,TS,stress,751-0,,baseline,8.0,77.0
+1598,m207 s1c2,60,TS,stress,751-0,,baseline,9.333333333333334,78.0
+1599,m207 s1c2,80,TS,stress,751-0,,baseline,11.333333333333334,79.0
+1600,m207 s1c2,100,TS,stress,751-0,,baseline,13.333333333333334,80.0
+1601,m207 s1c2,120,TS,stress,751-0,,baseline,14.666666666666666,81.0
+1602,m207 s1c2,140,TS,stress,751-0,,baseline,16.0,82.0
+1603,m207 s1c2,160,TS,stress,751-0,,baseline,17.333333333333332,83.0
+1604,m207 s1c2,180,TS,stress,751-0,,baseline,18.666666666666668,84.0
+1605,m207 s1c2,200,TS,stress,751-0,,baseline,18.666666666666668,85.0
+1606,m207 s1c3,0,TS,stress,751-0,,baseline,10.666666666666666,130.0
+1607,m207 s1c3,20,TS,stress,751-0,,baseline,12.0,131.0
+1608,m207 s1c3,40,TS,stress,751-0,,baseline,14.666666666666666,132.0
+1609,m207 s1c3,60,TS,stress,751-0,,baseline,17.333333333333332,133.0
+1610,m207 s1c3,80,TS,stress,751-0,,baseline,19.333333333333332,134.0
+1611,m207 s1c3,100,TS,stress,751-0,,baseline,20.666666666666668,135.0
+1612,m207 s1c3,120,TS,stress,751-0,,baseline,22.0,136.0
+1613,m207 s1c3,140,TS,stress,751-0,,baseline,24.666666666666668,137.0
+1614,m207 s1c3,160,TS,stress,751-0,,baseline,26.666666666666668,138.0
+1615,m207 s1c3,180,TS,stress,751-0,,baseline,25.333333333333332,139.0
+1616,m207 s1c3,200,TS,stress,751-0,,baseline,26.666666666666668,140.0
+1617,m207 s1c4,0,TS,stress,751-0,,baseline,9.333333333333334,185.0
+1618,m207 s1c4,20,TS,stress,751-0,,baseline,12.0,186.0
+1619,m207 s1c4,40,TS,stress,751-0,,baseline,16.0,187.0
+1620,m207 s1c4,60,TS,stress,751-0,,baseline,21.333333333333332,188.0
+1621,m207 s1c4,80,TS,stress,751-0,,baseline,23.333333333333332,189.0
+1622,m207 s1c4,100,TS,stress,751-0,,baseline,25.333333333333332,190.0
+1623,m207 s1c4,120,TS,stress,751-0,,baseline,25.333333333333332,191.0
+1624,m207 s1c4,140,TS,stress,751-0,,baseline,26.666666666666668,192.0
+1625,m207 s1c4,160,TS,stress,751-0,,baseline,26.666666666666668,193.0
+1626,m207 s1c4,180,TS,stress,751-0,,baseline,26.666666666666668,194.0
+1627,m207 s1c4,200,TS,stress,751-0,,baseline,23.333333333333332,195.0
+1628,m208 s1c1,0,TS,naive,757-0,,baseline,3.0,25.5
+1629,m208 s1c1,20,TS,naive,757-0,,baseline,2.5,26.5
+1630,m208 s1c1,40,TS,naive,757-0,,baseline,7.0,27.5
+1631,m208 s1c1,60,TS,naive,757-0,,baseline,7.0,28.5
+1632,m208 s1c1,80,TS,naive,757-0,,baseline,7.5,29.5
+1633,m208 s1c1,100,TS,naive,757-0,,baseline,8.0,30.5
+1634,m208 s1c1,120,TS,naive,757-0,,baseline,8.0,31.5
+1635,m208 s1c1,140,TS,naive,757-0,,baseline,8.5,32.5
+1636,m208 s1c1,160,TS,naive,757-0,,baseline,7.5,33.5
+1637,m208 s1c1,180,TS,naive,757-0,,baseline,6.0,34.5
+1638,m208 s1c1,200,TS,naive,757-0,,baseline,6.5,35.5
+1639,m208 s1c2,0,TS,naive,757-0,,baseline,0.6666666666666666,79.0
+1640,m208 s1c2,20,TS,naive,757-0,,baseline,7.333333333333333,80.0
+1641,m208 s1c2,40,TS,naive,757-0,,baseline,9.333333333333334,81.0
+1642,m208 s1c2,60,TS,naive,757-0,,baseline,10.666666666666666,82.0
+1643,m208 s1c2,80,TS,naive,757-0,,baseline,12.0,83.0
+1644,m208 s1c2,100,TS,naive,757-0,,baseline,10.666666666666666,84.0
+1645,m208 s1c2,120,TS,naive,757-0,,baseline,9.333333333333334,85.0
+1646,m208 s1c2,140,TS,naive,757-0,,baseline,10.666666666666666,86.0
+1647,m208 s1c2,160,TS,naive,757-0,,baseline,10.0,87.0
+1648,m208 s1c2,180,TS,naive,757-0,,baseline,10.666666666666666,88.0
+1649,m208 s1c2,200,TS,naive,757-0,,baseline,8.666666666666666,89.0
+1650,m208 s1c3,0,TS,naive,757-0,,baseline,0.6666666666666666,134.0
+1651,m208 s1c3,20,TS,naive,757-0,,baseline,6.0,135.0
+1652,m208 s1c3,40,TS,naive,757-0,,baseline,10.0,136.0
+1653,m208 s1c3,60,TS,naive,757-0,,baseline,12.0,137.0
+1654,m208 s1c3,80,TS,naive,757-0,,baseline,16.0,138.0
+1655,m208 s1c3,100,TS,naive,757-0,,baseline,18.666666666666668,139.0
+1656,m208 s1c3,120,TS,naive,757-0,,baseline,16.666666666666668,140.0
+1657,m208 s1c3,140,TS,naive,757-0,,baseline,16.0,141.0
+1658,m208 s1c3,160,TS,naive,757-0,,baseline,15.333333333333334,142.0
+1659,m208 s1c3,180,TS,naive,757-0,,baseline,14.0,143.0
+1660,m208 s1c3,200,TS,naive,757-0,,baseline,16.0,144.0
+1661,m208 s1c4,0,TS,naive,757-0,,baseline,2.6666666666666665,185.0
+1662,m208 s1c4,20,TS,naive,757-0,,baseline,2.6666666666666665,186.0
+1663,m208 s1c4,40,TS,naive,757-0,,baseline,4.666666666666667,187.0
+1664,m208 s1c4,60,TS,naive,757-0,,baseline,5.333333333333333,188.0
+1665,m208 s1c4,80,TS,naive,757-0,,baseline,6.666666666666667,189.0
+1666,m208 s1c4,100,TS,naive,757-0,,baseline,8.0,190.0
+1667,m208 s1c4,120,TS,naive,757-0,,baseline,9.333333333333334,191.0
+1668,m208 s1c4,140,TS,naive,757-0,,baseline,8.666666666666666,192.0
+1669,m208 s1c4,160,TS,naive,757-0,,baseline,10.0,193.0
+1670,m208 s1c4,180,TS,naive,757-0,,baseline,10.666666666666666,194.0
+1671,m208 s1c4,200,TS,naive,757-0,,baseline,10.666666666666666,195.0
+1672,m208 s2c1,0,TS,naive,757-0,,baseline,1.3333333333333333,240.0
+1673,m208 s2c1,20,TS,naive,757-0,,baseline,15.333333333333334,241.0
+1674,m208 s2c1,40,TS,naive,757-0,,baseline,23.333333333333332,242.0
+1675,m208 s2c1,60,TS,naive,757-0,,baseline,30.666666666666668,243.0
+1676,m208 s2c1,80,TS,naive,757-0,,baseline,31.333333333333332,244.0
+1677,m208 s2c1,100,TS,naive,757-0,,baseline,30.0,245.0
+1678,m208 s2c1,120,TS,naive,757-0,,baseline,25.333333333333332,246.0
+1679,m208 s2c1,140,TS,naive,757-0,,baseline,20.666666666666668,247.0
+1680,m208 s2c1,160,TS,naive,757-0,,baseline,15.333333333333334,248.0
+1681,m208 s2c1,180,TS,naive,757-0,,baseline,15.333333333333334,249.0
+1682,m208 s2c1,200,TS,naive,757-0,,baseline,12.0,250.0
+1683,m208 s2c2,0,TS,naive,757-0,,baseline,0.0,295.0
+1684,m208 s2c2,20,TS,naive,757-0,,baseline,2.6666666666666665,296.0
+1685,m208 s2c2,40,TS,naive,757-0,,baseline,5.333333333333333,297.0
+1686,m208 s2c2,60,TS,naive,757-0,,baseline,8.0,298.0
+1687,m208 s2c2,80,TS,naive,757-0,,baseline,9.333333333333334,299.0
+1688,m208 s2c2,100,TS,naive,757-0,,baseline,10.666666666666666,300.0
+1689,m208 s2c2,120,TS,naive,757-0,,baseline,12.666666666666666,301.0
+1690,m208 s2c2,140,TS,naive,757-0,,baseline,12.0,302.0
+1691,m208 s2c2,160,TS,naive,757-0,,baseline,12.666666666666666,303.0
+1692,m208 s2c2,180,TS,naive,757-0,,baseline,12.666666666666666,304.0
+1693,m208 s2c2,200,TS,naive,757-0,,baseline,11.333333333333334,305.0
+1694,m208 s3c1,0,TS,naive,757-0,,baseline,4.0,338.0
+1695,m208 s3c1,20,TS,naive,757-0,,baseline,4.0,339.0
+1696,m208 s3c1,40,TS,naive,757-0,,baseline,6.0,340.0
+1697,m208 s3c1,60,TS,naive,757-0,,baseline,8.0,341.0
+1698,m208 s3c1,80,TS,naive,757-0,,baseline,10.0,342.0
+1699,m208 s3c1,100,TS,naive,757-0,,baseline,12.0,343.0
+1700,m208 s3c1,120,TS,naive,757-0,,baseline,10.0,344.0
+1701,m208 s3c1,140,TS,naive,757-0,,baseline,8.0,345.0
+1702,m208 s3c1,160,TS,naive,757-0,,baseline,12.0,346.0
+1703,m208 s3c1,180,TS,naive,757-0,,baseline,10.0,347.0
+1704,m208 s3c1,200,TS,naive,757-0,,baseline,6.0,348.0
+1705,m323 s1c1 +,0,SNL,stress,611-323,,baseline,0.0,16.0
+1706,m323 s1c1 +,20,SNL,stress,611-323,,baseline,2.0,17.0
+1707,m323 s1c1 +,40,SNL,stress,611-323,,baseline,16.0,18.0
+1708,m323 s1c1 +,60,SNL,stress,611-323,,baseline,27.333333333333332,19.0
+1709,m323 s1c1 +,80,SNL,stress,611-323,,baseline,22.0,20.0
+1710,m323 s1c1 +,100,SNL,stress,611-323,,baseline,12.666666666666666,21.0
+1711,m323 s1c1 +,120,SNL,stress,611-323,,baseline,8.666666666666666,22.0
+1712,m323 s1c1 +,140,SNL,stress,611-323,,baseline,8.0,23.0
+1713,m323 s1c1 +,160,SNL,stress,611-323,,baseline,8.0,24.0
+1714,m323 s1c1 +,180,SNL,stress,611-323,,baseline,8.0,25.0
+1715,m323 s1c1 +,200,SNL,stress,611-323,,baseline,6.0,26.0
+1716,m323 s1c2 +,0,SNL,stress,611-323,,baseline,0.0,211.14285714285714
+1717,m323 s1c2 +,20,SNL,stress,611-323,,baseline,0.0,212.14285714285714
+1718,m323 s1c2 +,40,SNL,stress,611-323,,baseline,2.2857142857142856,213.14285714285714
+1719,m323 s1c2 +,60,SNL,stress,611-323,,baseline,4.857142857142857,214.14285714285714
+1720,m323 s1c2 +,80,SNL,stress,611-323,,baseline,8.285714285714286,215.14285714285714
+1721,m323 s1c2 +,100,SNL,stress,611-323,,baseline,10.857142857142858,216.14285714285714
+1722,m323 s1c2 +,120,SNL,stress,611-323,,baseline,13.142857142857142,217.14285714285714
+1723,m323 s1c2 +,140,SNL,stress,611-323,,baseline,15.142857142857142,218.14285714285714
+1724,m323 s1c2 +,160,SNL,stress,611-323,,baseline,17.142857142857142,219.14285714285714
+1725,m323 s1c2 +,180,SNL,stress,611-323,,baseline,16.0,220.14285714285714
+1726,m323 s1c2 +,200,SNL,stress,611-323,,baseline,14.857142857142858,221.14285714285714
+1727,m323 s1c3 +,0,SNL,stress,611-323,,baseline,0.0,400.1666666666667
+1728,m323 s1c3 +,20,SNL,stress,611-323,,baseline,0.0,401.1666666666667
+1729,m323 s1c3 +,40,SNL,stress,611-323,,baseline,0.6666666666666666,402.1666666666667
+1730,m323 s1c3 +,60,SNL,stress,611-323,,baseline,4.333333333333333,403.1666666666667
+1731,m323 s1c3 +,80,SNL,stress,611-323,,baseline,8.0,404.1666666666667
+1732,m323 s1c3 +,100,SNL,stress,611-323,,baseline,12.333333333333334,405.1666666666667
+1733,m323 s1c3 +,120,SNL,stress,611-323,,baseline,18.333333333333332,406.1666666666667
+1734,m323 s1c3 +,140,SNL,stress,611-323,,baseline,24.0,407.1666666666667
+1735,m323 s1c3 +,160,SNL,stress,611-323,,baseline,28.0,408.1666666666667
+1736,m323 s1c3 +,180,SNL,stress,611-323,,baseline,32.333333333333336,409.1666666666667
+1737,m323 s1c3 +,200,SNL,stress,611-323,,baseline,34.666666666666664,410.1666666666667
+1738,m323 s2c1 +,0,SNL,stress,611-323,,baseline,0.0,603.5
+1739,m323 s2c1 +,20,SNL,stress,611-323,,baseline,17.5,604.5
+1740,m323 s2c1 +,40,SNL,stress,611-323,,baseline,28.5,605.5
+1741,m323 s2c1 +,60,SNL,stress,611-323,,baseline,25.5,606.5
+1742,m323 s2c1 +,80,SNL,stress,611-323,,baseline,26.0,607.5
+1743,m323 s2c1 +,100,SNL,stress,611-323,,baseline,22.5,608.5
+1744,m323 s2c1 +,120,SNL,stress,611-323,,baseline,19.5,609.5
+1745,m323 s2c1 +,140,SNL,stress,611-323,,baseline,17.0,610.5
+1746,m323 s2c1 +,160,SNL,stress,611-323,,baseline,14.5,611.5
+1747,m323 s2c1 +,180,SNL,stress,611-323,,baseline,13.0,612.5
+1748,m323 s2c1 +,200,SNL,stress,611-323,,baseline,11.0,613.5
+1749,m323 s3c2 + (mz_s1c2),0,SNL,stress,611-323,,baseline,0.0,134.0
+1750,m323 s3c2 + (mz_s1c2),20,SNL,stress,611-323,,baseline,0.0,135.0
+1751,m323 s3c2 + (mz_s1c2),40,SNL,stress,611-323,,baseline,0.0,136.0
+1752,m323 s3c2 + (mz_s1c2),60,SNL,stress,611-323,,baseline,0.0,137.0
+1753,m323 s3c2 + (mz_s1c2),80,SNL,stress,611-323,,baseline,0.0,138.0
+1754,m323 s3c2 + (mz_s1c2),100,SNL,stress,611-323,,baseline,8.0,139.0
+1755,m323 s3c2 + (mz_s1c2),120,SNL,stress,611-323,,baseline,13.333333333333334,140.0
+1756,m323 s3c2 + (mz_s1c2),140,SNL,stress,611-323,,baseline,18.0,141.0
+1757,m323 s3c2 + (mz_s1c2),160,SNL,stress,611-323,,baseline,22.666666666666668,142.0
+1758,m323 s3c2 + (mz_s1c2),180,SNL,stress,611-323,,baseline,27.333333333333332,143.0
+1759,m323 s3c2 + (mz_s1c2),200,SNL,stress,611-323,,baseline,30.666666666666668,144.0
+1760,m410 s1c1,0,PAG,naive,2006-151,,baseline,2.0,16.0
+1761,m410 s1c1,20,PAG,naive,2006-151,,baseline,8.0,17.0
+1762,m410 s1c1,40,PAG,naive,2006-151,,baseline,10.0,18.0
+1763,m410 s1c1,60,PAG,naive,2006-151,,baseline,26.666666666666668,19.0
+1764,m410 s1c1,80,PAG,naive,2006-151,,baseline,15.333333333333334,20.0
+1765,m410 s1c1,100,PAG,naive,2006-151,,baseline,13.333333333333334,21.0
+1766,m410 s1c1,120,PAG,naive,2006-151,,baseline,10.666666666666666,22.0
+1767,m410 s1c1,140,PAG,naive,2006-151,,baseline,8.0,23.0
+1768,m410 s1c1,160,PAG,naive,2006-151,,baseline,10.666666666666666,24.0
+1769,m410 s1c1,180,PAG,naive,2006-151,,baseline,9.333333333333334,25.0
+1770,m410 s1c1,200,PAG,naive,2006-151,,baseline,8.666666666666666,26.0
+1771,m410 s1c2,0,PAG,naive,2006-151,,baseline,6.666666666666667,92.33333333333333
+1772,m410 s1c2,20,PAG,naive,2006-151,,baseline,9.333333333333334,93.33333333333333
+1773,m410 s1c2,40,PAG,naive,2006-151,,baseline,13.333333333333334,94.33333333333333
+1774,m410 s1c2,60,PAG,naive,2006-151,,baseline,16.666666666666668,95.33333333333333
+1775,m410 s1c2,80,PAG,naive,2006-151,,baseline,18.666666666666668,96.33333333333333
+1776,m410 s1c2,100,PAG,naive,2006-151,,baseline,15.333333333333334,97.33333333333333
+1777,m410 s1c2,120,PAG,naive,2006-151,,baseline,10.0,98.33333333333333
+1778,m410 s1c2,140,PAG,naive,2006-151,,baseline,10.0,99.33333333333333
+1779,m410 s1c2,160,PAG,naive,2006-151,,baseline,8.666666666666666,100.33333333333333
+1780,m410 s1c2,180,PAG,naive,2006-151,,baseline,8.0,101.33333333333333
+1781,m410 s1c2,200,PAG,naive,2006-151,,baseline,8.666666666666666,102.33333333333333
+1782,m410 s2c1,0,PAG,naive,2006-151,,baseline,0.0,265.0
+1783,m410 s2c1,20,PAG,naive,2006-151,,baseline,0.6666666666666666,266.0
+1784,m410 s2c1,40,PAG,naive,2006-151,,baseline,4.666666666666667,267.0
+1785,m410 s2c1,60,PAG,naive,2006-151,,baseline,9.333333333333334,268.0
+1786,m410 s2c1,80,PAG,naive,2006-151,,baseline,12.0,269.0
+1787,m410 s2c1,100,PAG,naive,2006-151,,baseline,17.333333333333332,270.0
+1788,m410 s2c1,120,PAG,naive,2006-151,,baseline,24.0,271.0
+1789,m410 s2c1,140,PAG,naive,2006-151,,baseline,27.333333333333332,272.0
+1790,m410 s2c1,160,PAG,naive,2006-151,,baseline,28.0,273.0
+1791,m410 s2c1,180,PAG,naive,2006-151,,baseline,31.333333333333332,274.0
+1792,m410 s2c1,200,PAG,naive,2006-151,,baseline,35.333333333333336,275.0

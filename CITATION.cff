@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Analysis code for: Adolescent Stress Sensitizes Amygdalo-Nigro-Striatal Circuitry to Drive Punishment-Resistant Reward-Seeking"
+authors:
+  - family-names: Nadel
+    given-names: Jacob A.
+  - family-names: Swanson
+    given-names: Evan S.
+  - family-names: Zhu
+    given-names: Manhua
+  - family-names: Demir
+    given-names: Baran
+  - family-names: Kwon
+    given-names: Michelle H.
+  - family-names: Patel
+    given-names: Sachin
+  - family-names: Lerner
+    given-names: Talia N.
+repository-code: "https://github.com/jnadelneuro/aCUS-paper"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Adolescent Stress Sensitizes Amygdalo-Nigro-Striatal Circuitry to Drive Punishment-Resistant Reward-Seeking"
+  authors:
+    - family-names: Nadel
+      given-names: Jacob A.
+    - family-names: Lerner
+      given-names: Talia N.
+  journal: TBD
+  year: 2026

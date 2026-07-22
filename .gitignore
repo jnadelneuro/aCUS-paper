@@ -1,0 +1,39 @@
+# User-specific path config (ship config.example.yaml instead)
+config/config.yaml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Compiled NEURON mechanisms (rebuild locally with nrnivmodl)
+src/model/mod/x86_64/
+src/model/**/*.o
+src/model/**/*.c
+*.dll
+
+# Large derived intermediates (fetched from the data archive, not git-tracked)
+*.pkl
+*.feather
+*.h5
+*.hdf5
+*.h5ad
+*.rds
+*.nwb
+
+# scRNA-seq download cache (rebuilt from GEO GSE213828 by src/rnaseq/kcnq.py)
+src/rnaseq/data/
+
+# Figure output scratch
+_figout/
+**/panels/*.png
+
+# OS
+.DS_Store
+Thumbs.db

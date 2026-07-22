@@ -1,0 +1,27 @@
+# Path configuration.
+# Copy this file to config/config.yaml and set `data_root` to wherever you unpacked
+# the processed-data archive. This is the only place data paths are defined; every
+# script resolves its paths from here.
+
+paths:
+  # Root of the processed-data tree (the deposited data archive).
+  data_root: "/path/to/aCUS_data"
+
+  # Active-avoidance data (Fig S1K-L) lives under a separate root:
+  avoidance_root: "/path/to/avoidance_data"
+
+  # Where regenerated figures/panels are written:
+  fig_out: "./_figout"
+
+# Data sub-paths, relative to data_root (leave as-is):
+subpaths:
+  ri60: "ALL_RI60_PHOTO/behavior/output_datafiles"
+  intrinsic: "ALL_INTRINSIC_EPHYS/analysis"
+  model: "EPHYS_MODELING"
+  rnaseq: "EPHYS_MODELING/RNA-seq"
+
+# External toolchains — only needed to re-run the raw->derived steps (leave blank otherwise):
+tools:
+  matlab_wavesurfer: ""   # WaveSurfer 0.945 path (ephys .h5 ingest via MATLAB engine)
+  ipfx: ""                # ipfx checkout (spike-feature extraction)
+  neuron_mod: ""          # compiled NEURON mechanism dir (blank = build from src/model/mod)

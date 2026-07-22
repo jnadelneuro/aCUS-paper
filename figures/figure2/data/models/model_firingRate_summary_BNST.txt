@@ -1,0 +1,48 @@
+                               Mixed Linear Model Regression Results
+===================================================================================================
+Model:                           MixedLM               Dependent Variable:               firingRate
+No. Observations:                308                   Method:                           REML      
+No. Groups:                      6                     Scale:                            50.9356   
+Min. group size:                 22                    Log-Likelihood:                   -1049.8277
+Max. group size:                 99                    Converged:                        Yes       
+Mean group size:                 51.3                                                              
+---------------------------------------------------------------------------------------------------
+                                                        Coef.  Std.Err.   z    P>|z|  [0.025 0.975]
+---------------------------------------------------------------------------------------------------
+Intercept                                               12.725    1.937  6.569 0.000   8.929 16.522
+C(Stress, Sum)[S.naive]                                  2.632    1.937  1.359 0.174  -1.165  6.429
+C(currentInjected, Sum)[S.0]                           -11.339    1.289 -8.795 0.000 -13.866 -8.812
+C(currentInjected, Sum)[S.20]                           -7.944    1.289 -6.162 0.000 -10.471 -5.417
+C(currentInjected, Sum)[S.40]                           -4.033    1.289 -3.128 0.002  -6.560 -1.506
+C(currentInjected, Sum)[S.60]                           -0.756    1.289 -0.587 0.558  -3.283  1.771
+C(currentInjected, Sum)[S.80]                            1.702    1.289  1.320 0.187  -0.825  4.229
+C(currentInjected, Sum)[S.100]                           3.480    1.289  2.699 0.007   0.953  6.007
+C(currentInjected, Sum)[S.120]                           4.428    1.289  3.435 0.001   1.902  6.955
+C(currentInjected, Sum)[S.140]                           4.405    1.289  3.416 0.001   1.878  6.931
+C(currentInjected, Sum)[S.160]                           3.931    1.289  3.049 0.002   1.404  6.458
+C(currentInjected, Sum)[S.180]                           3.405    1.289  2.641 0.008   0.878  5.931
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.0]    -1.707    1.289 -1.324 0.185  -4.234  0.820
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.20]   -0.569    1.289 -0.441 0.659  -3.096  1.958
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.40]    0.009    1.289  0.007 0.995  -2.518  2.536
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.60]   -0.201    1.289 -0.156 0.876  -2.728  2.326
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.80]   -0.615    1.289 -0.477 0.633  -3.142  1.912
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.100]  -0.171    1.289 -0.132 0.895  -2.698  2.356
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.120]   0.214    1.289  0.166 0.868  -2.313  2.741
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.140]   0.549    1.289  0.426 0.670  -1.978  3.076
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.160]   0.845    1.289  0.655 0.512  -1.682  3.372
+C(Stress, Sum)[S.naive]:C(currentInjected, Sum)[S.180]   0.882    1.289  0.684 0.494  -1.645  3.409
+cellID Var                                              99.904    4.260                            
+===================================================================================================
+
+
+main effect of Stress:
+<F test: F=1.8463125610981967, p=0.1752835174680433, df_denom=286, df_num=1>
+
+main effect of current:
+<F test: F=16.24287489607427, p=3.951303889888934e-23, df_denom=286, df_num=10>
+
+Stress x current:
+<F test: F=0.33419520273573033, p=0.9713652159265365, df_denom=286, df_num=10>
+
+Removed outliers (MAD, threshold=3.5):
+None.

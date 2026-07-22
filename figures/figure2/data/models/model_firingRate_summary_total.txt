@@ -1,0 +1,30 @@
+--- Hierarchical Mixed-Effects Model Summary ---
+Variable: firingRate
+                      Mixed Linear Model Regression Results
+==================================================================================
+Model:                      MixedLM         Dependent Variable:         firingRate
+No. Observations:           1331            Method:                     REML      
+No. Groups:                 22              Scale:                      121.0250  
+Min. group size:            11              Log-Likelihood:             -5173.1357
+Max. group size:            110             Converged:                  Yes       
+Mean group size:            60.5                                                  
+----------------------------------------------------------------------------------
+                                       Coef.  Std.Err.   z    P>|z|  [0.025 0.975]
+----------------------------------------------------------------------------------
+Intercept                              10.645    1.418  7.509 0.000   7.867 13.424
+C(Stress)[T.stress]                     5.303    2.005  2.645 0.008   1.374  9.233
+C(projID)[T.PAG]                        1.714    2.542  0.674 0.500  -3.267  6.695
+C(projID)[T.BNST]                       4.712    2.482  1.898 0.058  -0.153  9.578
+C(Stress)[T.stress]:C(projID)[T.PAG]   -4.093    3.483 -1.175 0.240 -10.920  2.734
+C(Stress)[T.stress]:C(projID)[T.BNST] -10.568    3.601 -2.935 0.003 -17.625 -3.511
+cellID Var                             51.294    0.781                            
+==================================================================================
+
+
+
+--- Post-Hoc Pairwise Comparisons for Main Effect of projID ---
+(Šidák correction for multiple comparisons)
+  Comparison T-value  P-value Adjusted P-value (Sidak) Significance
+ PAG vs. SNL -0.1909 0.848615                 0.996531           ns
+BNST vs. SNL -0.3174 0.750957                 0.984554           ns
+PAG vs. BNST  0.1157 0.907899                 0.999219           ns
